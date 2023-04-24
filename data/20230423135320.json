@@ -1,0 +1,432 @@
+[
+  {
+    "coord": {
+      "lat": 69.45118467467452,
+      "lon": -85.66259790572009
+    },
+    "city": "Igloolik",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 53.06269858347868,
+      "lon": -58.067239729944106
+    },
+    "city": "Separation Point",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.02656968842411,
+      "lon": -82.38339931259841
+    },
+    "city": "Alice",
+    "country": "United States of America",
+    "region": "Ohio",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.17278166441166,
+      "lon": -9.39057408488078
+    },
+    "city": "Crampel",
+    "country": "Mauritania",
+    "region": "Guidimaka",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 68.65168130280347,
+      "lon": -148.53851880050823
+    },
+    "city": "Sagwon",
+    "country": "United States of America",
+    "region": "Alaska",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -52.438300398221884,
+      "lon": -60.389059730834155
+    },
+    "city": "El Prado",
+    "country": "Argentina",
+    "region": "Santa Fe",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -34.04939280478864,
+      "lon": 136.53238181958415
+    },
+    "city": "Arno Bay",
+    "country": "Australia",
+    "region": "South Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -30.863532252845147,
+      "lon": -66.97377044466299
+    },
+    "city": "Retamal",
+    "country": "Argentina",
+    "region": "La Rioja",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.9178550079796963,
+      "lon": -46.96589720737945
+    },
+    "city": "Mangueira",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.359468654909826,
+      "lon": 54.86222562153993
+    },
+    "city": "Ara Qu'i",
+    "country": "Iran",
+    "region": "Mazandaran",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 10.986737701783753,
+      "lon": 6.433721592169508
+    },
+    "city": "Tudunwada",
+    "country": "Nigeria",
+    "region": "Zamfara",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 56.35967318189428,
+      "lon": 83.1298677921295
+    },
+    "city": "Novyy Ivanovskiy",
+    "country": "Russia",
+    "region": "Tomsk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.771868695261688,
+      "lon": 137.45170387400432
+    },
+    "city": "Bwera",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 60.92009392421795,
+      "lon": 151.7562954780068
+    },
+    "city": "Atka",
+    "country": "Russia",
+    "region": "Magadan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 42.73070848854891,
+      "lon": 104.8552007606432
+    },
+    "city": "Sangin Dalay Khure",
+    "country": "Mongolia",
+    "region": "Omnogovi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -22.31500480642788,
+      "lon": -148.01707140645718
+    },
+    "city": "Raiurua",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 61.94605125236864,
+      "lon": 21.190458717398492
+    },
+    "city": "Merikarvia",
+    "country": "Finland",
+    "region": "Western Finland",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.68382610826552,
+      "lon": 168.28226179644233
+    },
+    "city": "Wakone",
+    "country": "New Caledonia",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 26.95358863496893,
+      "lon": -102.5725101304506
+    },
+    "city": "Gabino Vazquez (El Naranjo)",
+    "country": "Mexico",
+    "region": "Coahuila",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.2489822645668909,
+      "lon": 21.72104010418888
+    },
+    "city": "Pomandjoku",
+    "country": "Democratic Republic of Congo",
+    "region": "Bas-Congo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 44.70045020447569,
+      "lon": 37.225770597418496
+    },
+    "city": "Bolshoy Utrish",
+    "country": "Russia",
+    "region": "Krasnodar",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 51.11706278870892,
+      "lon": -103.6504904285485
+    },
+    "city": "Ituna",
+    "country": "Canada",
+    "region": "Saskatchewan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.27686537159461,
+      "lon": -59.36189672147383
+    },
+    "city": "Poirer",
+    "country": "Martinique",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.4106747325812,
+      "lon": 50.44590971794148
+    },
+    "city": "Bandar Alula",
+    "country": "Somalia",
+    "region": "Bari",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.828946844322601,
+      "lon": -64.97672808737381
+    },
+    "city": "Cachoeirinha",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -22.552137524935617,
+      "lon": 48.34259630336842
+    },
+    "city": "Nanavotra",
+    "country": "Madagascar",
+    "region": "Fianarantsoa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 69.74668596670682,
+      "lon": 72.41792266926983
+    },
+    "city": "Yaptiksalya",
+    "country": "Russia",
+    "region": "Yamal-Nenets",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.642865831396364,
+      "lon": 108.24684115453711
+    },
+    "city": "Kuling",
+    "country": "China",
+    "region": "Guangxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -7.751363685222401,
+      "lon": 152.989761731363
+    },
+    "city": "Kaurai",
+    "country": "Papua New Guinea",
+    "region": "Milne Bay",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 28.282971874831716,
+      "lon": 33.8090789276863
+    },
+    "city": "Al-Tur",
+    "country": "Egypt",
+    "region": "Janub Sina'",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.840733687241695,
+      "lon": 18.13583140033188
+    },
+    "city": "Ra's Lanuf",
+    "country": "Libya",
+    "region": "Misratah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 32.03952116888384,
+      "lon": 133.97777841511405
+    },
+    "city": "Isa",
+    "country": "Japan",
+    "region": "Kochi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.3751110868237362,
+      "lon": 36.15790550361741
+    },
+    "city": "Sandai",
+    "country": "Kenya",
+    "region": "Rift Valley",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -29.41257752991261,
+      "lon": 32.65259997148946
+    },
+    "city": "Richards Bay",
+    "country": "South Africa",
+    "region": "KwaZulu-Natal",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.6995087839684828,
+      "lon": 111.55437765535822
+    },
+    "city": "Enceroran",
+    "country": "Indonesia",
+    "region": "West Kalimantan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 75.0744499690754,
+      "lon": -20.452340024201924
+    },
+    "city": "Myggbukta",
+    "country": "Greenland",
+    "region": "Ostgronland",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 43.51311875049301,
+      "lon": 0.7900754624893099
+    },
+    "city": "Mongauzy",
+    "country": "France",
+    "region": "Midi-Pyrenees",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 51.46728004010137,
+      "lon": -177.23973541788024
+    },
+    "city": "Happy Valley",
+    "country": "United States of America",
+    "region": "Alaska",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.12187344930205,
+      "lon": 78.08155826285868
+    },
+    "city": "Darbuk",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 8.218804701381643,
+      "lon": 148.98299997166768
+    },
+    "city": "Reeron",
+    "country": "Micronesia",
+    "region": "Chuuk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -20.906509447967082,
+      "lon": 12.991114362106288
+    },
+    "city": "Toscanini",
+    "country": "Namibia",
+    "region": "Kunene",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -38.05263322556192,
+      "lon": 153.61020948690035
+    },
+    "city": "Nelsons Plains",
+    "country": "Australia",
+    "region": "New South Wales",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.686100003281197,
+      "lon": -79.03693268565137
+    },
+    "city": "Orange Bay",
+    "country": "Jamaica",
+    "region": "Hanover",
+    "is_raining": false
+  }
+]

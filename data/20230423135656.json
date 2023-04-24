@@ -1,0 +1,392 @@
+[
+  {
+    "coord": {
+      "lat": 72.06587910680338,
+      "lon": -70.35489772380397
+    },
+    "city": "Clyde",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.50757768775239,
+      "lon": -93.62121751883606
+    },
+    "city": "Mandeville",
+    "country": "United States of America",
+    "region": "Missouri",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -48.221732106117685,
+      "lon": 166.98884063050917
+    },
+    "city": "Half-Moon Bay",
+    "country": "New Zealand",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 18.7782556974105,
+      "lon": 113.23241362063871
+    },
+    "city": "Wentun",
+    "country": "China",
+    "region": "Hainan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 35.83602824777412,
+      "lon": 87.62594122435948
+    },
+    "city": "Rolagang",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 6.374181522234906,
+      "lon": 9.849308223121984
+    },
+    "city": "Benakuma",
+    "country": "Cameroon",
+    "region": "Nord-Ouest",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 55.54953988265245,
+      "lon": 103.52743745631436
+    },
+    "city": "Priboynyy",
+    "country": "Russia",
+    "region": "Irkutsk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 55.6741758673575,
+      "lon": -136.24198975636565
+    },
+    "city": "Port Armstrong",
+    "country": "United States of America",
+    "region": "Alaska",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -32.91000553051096,
+      "lon": 150.76640535128723
+    },
+    "city": "Putty",
+    "country": "Australia",
+    "region": "New South Wales",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 62.91607791873501,
+      "lon": 140.4352704689961
+    },
+    "city": "Kyubyume",
+    "country": "Russia",
+    "region": "Sakha",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.459292269856675,
+      "lon": 94.13822426605824
+    },
+    "city": "Diglipur",
+    "country": "India",
+    "region": "Andaman and Nicobar Islands",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.293851111194726,
+      "lon": 39.282911591273766
+    },
+    "city": "Kakbir",
+    "country": "Turkey",
+    "region": "Tunceli",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.81647532940142,
+      "lon": 5.154436989593155
+    },
+    "city": "Biniancolla",
+    "country": "Spain",
+    "region": "Islas Baleares",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.779983686889864,
+      "lon": -60.47222935778226
+    },
+    "city": "Las Lomitas",
+    "country": "Argentina",
+    "region": "Formosa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.940504954400716,
+      "lon": 115.80601840657782
+    },
+    "city": "Hanliuguan",
+    "country": "China",
+    "region": "Hebei",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -4.841152611420753,
+      "lon": -63.276425851614206
+    },
+    "city": "Andrade",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 20.72469188989922,
+      "lon": -83.90234159678563
+    },
+    "city": "Conico",
+    "country": "Cuba",
+    "region": "Pinar del Rio",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -5.352303264207222,
+      "lon": 25.587121222602335
+    },
+    "city": "Lubao",
+    "country": "Democratic Republic of Congo",
+    "region": "Orientale",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -13.157185154016062,
+      "lon": 45.12122711230947
+    },
+    "city": "Mouroni Sanga",
+    "country": "Comoros",
+    "region": "Anjouan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.959409222210496,
+      "lon": 17.326337864067803
+    },
+    "city": "Voigtsgrund",
+    "country": "Namibia",
+    "region": "Hardap",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -4.2975984423493685,
+      "lon": 111.15265908113827
+    },
+    "city": "Telokkramat",
+    "country": "Indonesia",
+    "region": "Kalimantan Tengah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 56.524048860577295,
+      "lon": 24.643986560503414
+    },
+    "city": "(( Buzi ))",
+    "country": "Latvia",
+    "region": "Bauskas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 64.6973129442684,
+      "lon": 65.85225424511603
+    },
+    "city": "Kazymskiy Mys",
+    "country": "Russia",
+    "region": "Yamal-Nenets",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.24030786385181,
+      "lon": -108.76828412839517
+    },
+    "city": "Villa Las Dunas",
+    "country": "Mexico",
+    "region": "Baja California Sur",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.369170129047049,
+      "lon": 36.999572576667504
+    },
+    "city": "Wetet Abay",
+    "country": "Ethiopia",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.5265518251786574,
+      "lon": 149.2716995243707
+    },
+    "city": "Tingwon",
+    "country": "Papua New Guinea",
+    "region": "New Ireland",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -22.893984925548267,
+      "lon": 115.71373715498099
+    },
+    "city": "Onslow",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 41.915859357966745,
+      "lon": 142.79017053602735
+    },
+    "city": "Utoma",
+    "country": "Japan",
+    "region": "Hokkaido",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -15.961612771178551,
+      "lon": 164.92845665129278
+    },
+    "city": "Tombaesar",
+    "country": "Vanuatu",
+    "region": "Sanma",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.939243386559895,
+      "lon": 21.342053109298174
+    },
+    "city": "Bazimah",
+    "country": "Libya",
+    "region": "Al Kufrah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -8.707110368966795,
+      "lon": -170.0969188855112
+    },
+    "city": "Fakaofu Village",
+    "country": "Tokelau Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 46.16894087379411,
+      "lon": -118.25822722850829
+    },
+    "city": "Walla Walla",
+    "country": "United States of America",
+    "region": "Washington",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -17.690291215043928,
+      "lon": 135.31127446773687
+    },
+    "city": "Elliott",
+    "country": "Australia",
+    "region": "Northern Territory",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -14.640658694212377,
+      "lon": -137.79279365989092
+    },
+    "city": "Teonemahima",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.822034192804892,
+      "lon": 53.89039494078883
+    },
+    "city": "Mahdar Bin `Usayyan",
+    "country": "United Arab Emirates",
+    "region": "Abu Dhabi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.664425740371342,
+      "lon": 75.09604898853867
+    },
+    "city": "Gangapur",
+    "country": "India",
+    "region": "Maharashtra",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -44.5100289996696,
+      "lon": -75.36807575151428
+    },
+    "city": "Melinka",
+    "country": "Chile",
+    "region": "Los Lagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -17.71340647808917,
+      "lon": -41.40326533282316
+    },
+    "city": "Teofilo Otoni",
+    "country": "Brazil",
+    "region": "Minas Gerais",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 44.244595992694805,
+      "lon": 65.14237951078438
+    },
+    "city": "Biikum",
+    "country": "Kazakhstan",
+    "region": "Qyzylorda",
+    "is_raining": false
+  }
+]

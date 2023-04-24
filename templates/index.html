@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3D Weather Map</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+
+    <script
+      async
+      src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"
+    ></script>
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@v0.149.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@v0.149.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="container"></div>
+
+    <div id="rainPercentageDisplay">
+      Currently,
+      <span id="rainPercentage" style="font-size: 2rem; color: #6495ed"></span
+      ><span style="font-size: 2rem; color: #6495ed">%</span><br />of cities are
+      experiencing rain.
+    </div>
+
+    <div id="overlay">
+      <p class="statistics">
+        Coordinates with cities: <span id="totalCount"></span>
+      </p>
+      <p class="statistics">Raining cities: <span id="rainingCount"></span></p>
+      <p class="statistics">
+        Non-raining cities: <span id="nonRainingCount"></span>
+      </p>
+    </div>
+    <div id="info"></div>
+
+    <div
+      id="lastUpdated"
+      style="position: fixed; left: 10px; bottom: 30px; color: #ffffff"
+    ></div>
+    <div
+      id="countdown"
+      style="position: fixed; left: 10px; bottom: 10px; color: #ffffff"
+    ></div>
+
+    <script type="module" src="../static/js/main.js"></script>
+  </body>
+</html>

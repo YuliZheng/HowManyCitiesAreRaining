@@ -1,0 +1,6012 @@
+[
+  {
+    "coord": {
+      "lat": -11.25138132468851,
+      "lon": -79.54583882080239
+    },
+    "city": "Aquashuarco",
+    "country": "Peru",
+    "region": "Lima",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -8.949741800542682,
+      "lon": -45.99315633262729
+    },
+    "city": "Brejo Escuro",
+    "country": "Brazil",
+    "region": "Maranhao",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.77045376913446,
+      "lon": -78.20540369616802
+    },
+    "city": "Delway",
+    "country": "United States of America",
+    "region": "North Carolina",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 6.020436228019705,
+      "lon": -62.77343717774089
+    },
+    "city": "Mayupa",
+    "country": "Venezuela",
+    "region": "Bolivar",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 28.53533758394923,
+      "lon": -96.00624566863684
+    },
+    "city": "Matagorda",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -5.557472488212198,
+      "lon": -74.41386130165337
+    },
+    "city": "San Antonio De Acuracoy",
+    "country": "Peru",
+    "region": "Loreto",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -13.823546129227736,
+      "lon": -63.59090887931657
+    },
+    "city": "El Cusi",
+    "country": "Bolivia",
+    "region": "El Beni",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 6.716526580431378,
+      "lon": -81.686171861457
+    },
+    "city": "El Trapiche",
+    "country": "Panama",
+    "region": "Veraguas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -0.22167060152791862,
+      "lon": -65.57548372944228
+    },
+    "city": "Tuina",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 26.998561486235843,
+      "lon": -106.50578782180516
+    },
+    "city": "Yerbabuena",
+    "country": "Mexico",
+    "region": "Chihuahua",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.857704078324687,
+      "lon": -87.57953556401601
+    },
+    "city": "Javier Rojo Gomez (Punta Allen)",
+    "country": "Mexico",
+    "region": "Quintana Roo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.707538445546597,
+      "lon": -95.44887672146014
+    },
+    "city": "Huntsville",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.127415587481252,
+      "lon": -72.4376856719146
+    },
+    "city": "Pirates Well",
+    "country": "Bahamas",
+    "region": "Mayaguana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 47.97061618694971,
+      "lon": -100.40594526079674
+    },
+    "city": "Guthrie",
+    "country": "United States of America",
+    "region": "North Dakota",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 59.15581929819341,
+      "lon": -123.3859329996918
+    },
+    "city": "Nelson Forks",
+    "country": "Canada",
+    "region": "British Columbia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 16.702121840770033,
+      "lon": -88.53787732826447
+    },
+    "city": "Alabama",
+    "country": "Belize",
+    "region": "Stann Creek",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.05997802600663249,
+      "lon": -56.626299969830406
+    },
+    "city": "Rufino",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 5.166097766741828,
+      "lon": -53.64615206176242
+    },
+    "city": "Gaillot",
+    "country": "French Guiana",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -22.571832656229844,
+      "lon": -47.73000578326949
+    },
+    "city": "Charqueada",
+    "country": "Brazil",
+    "region": "Sao Paulo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 46.4234702647648,
+      "lon": -105.17077877162438
+    },
+    "city": "Knowlton",
+    "country": "United States of America",
+    "region": "Montana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.520449783777579,
+      "lon": -86.46335013202547
+    },
+    "city": "El Juncal",
+    "country": "Honduras",
+    "region": "Yoro",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.41815931991168,
+      "lon": -60.01723267311401
+    },
+    "city": "Floresta",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 11.217066804092028,
+      "lon": -60.213078195788846
+    },
+    "city": "Shore Park",
+    "country": "Trinidad and Tobago",
+    "region": "Tobago",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.59039445556634,
+      "lon": -70.6915779606189
+    },
+    "city": "Raya",
+    "country": "Colombia",
+    "region": "Vichada",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 7.418709317478957,
+      "lon": -72.26453388412847
+    },
+    "city": "Vega Santiago",
+    "country": "Venezuela",
+    "region": "Tachira",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -25.554385036657877,
+      "lon": -148.8483714491613
+    },
+    "city": "Tahueia",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 10.784978591330173,
+      "lon": -69.89891150748504
+    },
+    "city": "Maica",
+    "country": "Venezuela",
+    "region": "Falcon",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 19.456875094767838,
+      "lon": -92.03124746975423
+    },
+    "city": "Atlaxta",
+    "country": "Mexico",
+    "region": "Campeche",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.961109754262196,
+      "lon": -41.242979393556546
+    },
+    "city": "Jacobina",
+    "country": "Brazil",
+    "region": "Piaui",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.334871981579496,
+      "lon": -85.09193505234785
+    },
+    "city": "Pedernal",
+    "country": "Nicaragua",
+    "region": "Rio San Juan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.907650418087357,
+      "lon": -75.40924625735292
+    },
+    "city": "Copal",
+    "country": "Peru",
+    "region": "Loreto",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 62.68730603245161,
+      "lon": -71.02002673864513
+    },
+    "city": "Kimmirut",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 17.438132747806065,
+      "lon": -69.96396898797718
+    },
+    "city": "Palenque",
+    "country": "Dominican Republic",
+    "region": "San Cristobal",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 62.442941538250345,
+      "lon": -110.86269072919754
+    },
+    "city": "Lutselk'e",
+    "country": "Canada",
+    "region": "Northwest Territories",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.935952505503053,
+      "lon": -58.414456744522155
+    },
+    "city": "Attai Village",
+    "country": "Guyana",
+    "region": "Upper Demerara-Berbice",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 2.303053484976175,
+      "lon": -76.28442712217516
+    },
+    "city": "Tijeras",
+    "country": "Colombia",
+    "region": "Huila",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.27888740644758,
+      "lon": -53.982185880917065
+    },
+    "city": "Campo Verde",
+    "country": "Brazil",
+    "region": "Mato Grosso do Sul",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.49448126378195,
+      "lon": -94.17620661063386
+    },
+    "city": "Quintana Beach",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 53.211223378741906,
+      "lon": -103.17652503336372
+    },
+    "city": "Jordan River",
+    "country": "Canada",
+    "region": "Saskatchewan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -33.43667870958723,
+      "lon": -64.54738004132864
+    },
+    "city": "Sampacho",
+    "country": "Argentina",
+    "region": "Cordoba",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.937965911395338,
+      "lon": -64.12141453617042
+    },
+    "city": "Bajo Borbon",
+    "country": "Venezuela",
+    "region": "Bolivar",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 55.921243774852,
+      "lon": -94.63434245974703
+    },
+    "city": "Gillam",
+    "country": "Canada",
+    "region": "Manitoba",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.26805514064443514,
+      "lon": -88.20800395482068
+    },
+    "city": "Progreso",
+    "country": "Ecuador",
+    "region": "Galapagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 48.56019614317029,
+      "lon": -61.58538927566966
+    },
+    "city": "Fox Bay",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 43.00233989615934,
+      "lon": -82.1657238458116
+    },
+    "city": "Wyoming",
+    "country": "Canada",
+    "region": "Ontario",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 33.41518570901526,
+      "lon": -119.27444915664532
+    },
+    "city": "Two Harbors",
+    "country": "United States of America",
+    "region": "California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 56.99605493368564,
+      "lon": -62.854766063483616
+    },
+    "city": "Nutak",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -16.279184484613594,
+      "lon": -64.0192227452162
+    },
+    "city": "Los Limos",
+    "country": "Bolivia",
+    "region": "Santa Cruz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -4.185882022723121,
+      "lon": -68.1522356910807
+    },
+    "city": "Boca Do Mutum",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.355757762451148,
+      "lon": -89.96578071609963
+    },
+    "city": "Tucuru",
+    "country": "Guatemala",
+    "region": "Alta Verapaz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 20.305745668895,
+      "lon": -72.02922506707033
+    },
+    "city": "Fond Lagrange",
+    "country": "Haiti",
+    "region": "Nord",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 1.300809237995395,
+      "lon": -74.61145390785852
+    },
+    "city": "La Tigrera",
+    "country": "Colombia",
+    "region": "Caqueta",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 36.60399642682036,
+      "lon": -114.18746696481385
+    },
+    "city": "Riverside",
+    "country": "United States of America",
+    "region": "Nevada",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -27.46877533784776,
+      "lon": -107.81869708724223
+    },
+    "city": "Hanga Roa",
+    "country": "Chile",
+    "region": "Valparaiso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 23.92702815870507,
+      "lon": -101.99646367540976
+    },
+    "city": "El Refugio",
+    "country": "Mexico",
+    "region": "Zacatecas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 62.21975851981803,
+      "lon": -93.31855933749472
+    },
+    "city": "Tavani",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -36.163118134491896,
+      "lon": -74.96415729536132
+    },
+    "city": "Llico",
+    "country": "Chile",
+    "region": "Bio-Bio",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 20.213424930169268,
+      "lon": -104.69897832112632
+    },
+    "city": "El Llanito",
+    "country": "Mexico",
+    "region": "Jalisco",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 59.61720936723077,
+      "lon": -104.3930904486633
+    },
+    "city": "Stony Rapids",
+    "country": "Canada",
+    "region": "Saskatchewan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.2418292592921745,
+      "lon": -81.52598025001483
+    },
+    "city": "Acapulco",
+    "country": "Peru",
+    "region": "Tumbes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.340304627464306,
+      "lon": -73.69186992025645
+    },
+    "city": "Acampamento",
+    "country": "Brazil",
+    "region": "Acre",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 1.7249431063265206,
+      "lon": -60.58610516486759
+    },
+    "city": "Poco Iriruba",
+    "country": "Brazil",
+    "region": "Roraima",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.689633881114688,
+      "lon": -83.84783572641554
+    },
+    "city": "Madrigal",
+    "country": "Costa Rica",
+    "region": "Puntarenas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -17.457020532129334,
+      "lon": -71.93151610391091
+    },
+    "city": "Calas",
+    "country": "Peru",
+    "region": "Arequipa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -49.02842073498593,
+      "lon": -74.91828484167382
+    },
+    "city": "Tortel",
+    "country": "Chile",
+    "region": "Aisen del General Carlos Ibanez del Campo",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 16.464186097060235,
+      "lon": -94.60597896417087
+    },
+    "city": "Dolores",
+    "country": "Mexico",
+    "region": "Oaxaca",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.556273607329246,
+      "lon": -54.993088051259534
+    },
+    "city": "Alegre",
+    "country": "Brazil",
+    "region": "Mato Grosso do Sul",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 16.433661075234482,
+      "lon": -97.14486757143872
+    },
+    "city": "El Carrizal",
+    "country": "Mexico",
+    "region": "Oaxaca",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 16.728183269441246,
+      "lon": -65.53571004995206
+    },
+    "city": "Concordia",
+    "country": "United States of America",
+    "region": "Virgin Islands",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -8.439394733581722,
+      "lon": -77.87364893626663
+    },
+    "city": "Cusca",
+    "country": "Peru",
+    "region": "Ancash",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -2.410539962891832,
+      "lon": -79.79200336800017
+    },
+    "city": "Gazar",
+    "country": "Ecuador",
+    "region": "Guayas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 3.943584751880479,
+      "lon": -61.592057345667534
+    },
+    "city": "Sao Joaquim",
+    "country": "Brazil",
+    "region": "Roraima",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 37.19056406402261,
+      "lon": -106.12202930205443
+    },
+    "city": "Capulin",
+    "country": "United States of America",
+    "region": "Colorado",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 13.071859867843997,
+      "lon": -81.46518680327182
+    },
+    "city": "Morris Hill",
+    "country": "Colombia",
+    "region": "San Andres y Providencia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -15.208534737311638,
+      "lon": -57.30671470187173
+    },
+    "city": "Barra Do Bugres",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -14.728725053422892,
+      "lon": -137.73183853020194
+    },
+    "city": "Teonemahima",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.384887466710282,
+      "lon": -52.74881217515255
+    },
+    "city": "Pina",
+    "country": "French Guiana",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -4.358135001680111,
+      "lon": -35.87326931708017
+    },
+    "city": "Gaujiru",
+    "country": "Brazil",
+    "region": "Rio Grande do Norte",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -38.61002167796872,
+      "lon": -61.86826964887377
+    },
+    "city": "Paso Mayor",
+    "country": "Argentina",
+    "region": "Buenos Aires",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.800503753036182,
+      "lon": -75.01411435263249
+    },
+    "city": "Knowles",
+    "country": "Bahamas",
+    "region": "Cat Island",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.51576840843593,
+      "lon": -84.96860416982116
+    },
+    "city": "Two Mile",
+    "country": "United States of America",
+    "region": "Florida",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -4.2171539391765265,
+      "lon": -47.48459643104365
+    },
+    "city": "Cajuapara",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.402115209866132,
+      "lon": -89.15079667435828
+    },
+    "city": "West Point",
+    "country": "United States of America",
+    "region": "Louisiana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.225184814771296,
+      "lon": -73.23268110190628
+    },
+    "city": "Puerto Silva",
+    "country": "Peru",
+    "region": "Ucayali",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 28.501898916055808,
+      "lon": -102.33939338346804
+    },
+    "city": "Las Cuatas",
+    "country": "Mexico",
+    "region": "Coahuila",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 54.64554526243086,
+      "lon": -110.12619054998527
+    },
+    "city": "Cold Lake",
+    "country": "Canada",
+    "region": "Alberta",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 1.7181510404207074,
+      "lon": -81.47242727256831
+    },
+    "city": "Punta Tortuga",
+    "country": "Ecuador",
+    "region": "Esmeraldas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.3643825669162055,
+      "lon": -72.49904239705232
+    },
+    "city": "El Retorno",
+    "country": "Colombia",
+    "region": "Guaviare",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -13.928939301748699,
+      "lon": -44.96542148529097
+    },
+    "city": "Farinha",
+    "country": "Brazil",
+    "region": "Bahia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.4248951910722099,
+      "lon": -71.91442952477553
+    },
+    "city": "Tolima B",
+    "country": "Colombia",
+    "region": "Amazonas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.450492624578246,
+      "lon": -81.92133098757971
+    },
+    "city": "Caserio De Boca De Jaruco",
+    "country": "Cuba",
+    "region": "La Habana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.6621134189259692,
+      "lon": -50.445968596576336
+    },
+    "city": "Breves",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.825926485933664,
+      "lon": -48.599769808613566
+    },
+    "city": "Colina",
+    "country": "Brazil",
+    "region": "Sao Paulo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.35810992092786,
+      "lon": -77.05133862292217
+    },
+    "city": "Mars Bay",
+    "country": "Bahamas",
+    "region": "Kemps Bay",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.40824499233399,
+      "lon": -62.451189032846536
+    },
+    "city": "La Hicotea",
+    "country": "Venezuela",
+    "region": "Falcon",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -0.6179872696716444,
+      "lon": -59.763053256355754
+    },
+    "city": "Sitio Manoel J. De Souza",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 26.744098489732004,
+      "lon": -113.12024781321624
+    },
+    "city": "El Cardon",
+    "country": "Mexico",
+    "region": "Baja California Sur",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 54.18477795225369,
+      "lon": -69.7770716705385
+    },
+    "city": "Nichikun",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 31.20921865445071,
+      "lon": -106.81785655296405
+    },
+    "city": "El Capricho",
+    "country": "Mexico",
+    "region": "Chihuahua",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -15.780690912654947,
+      "lon": -51.633003677133
+    },
+    "city": "Sao Sebastiao Do Rio Claro",
+    "country": "Brazil",
+    "region": "Goias",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -21.740499856841012,
+      "lon": -60.63202859988425
+    },
+    "city": "Teniente Crovato",
+    "country": "Paraguay",
+    "region": "Presidente Hayes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 59.10644490484269,
+      "lon": -62.613550580951866
+    },
+    "city": "Ramah",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.74366770286278,
+      "lon": -69.72515441565876
+    },
+    "city": "Quillagua",
+    "country": "Chile",
+    "region": "Antofagasta",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.73472202718338,
+      "lon": -64.68861072550584
+    },
+    "city": "Buena Vista",
+    "country": "Bolivia",
+    "region": "Chuquisaca",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 47.54725114271043,
+      "lon": -77.94623509505836
+    },
+    "city": "Dubuisson",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -6.874794022153253,
+      "lon": -60.173731112159885
+    },
+    "city": "Tigre",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -43.74174780533639,
+      "lon": -74.89428196515094
+    },
+    "city": "Melinka",
+    "country": "Chile",
+    "region": "Los Lagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 16.991935529755068,
+      "lon": -63.23712482160248
+    },
+    "city": "Middle Island Village",
+    "country": "Saint Kitts and Nevis",
+    "region": "Saint Thomas Middle Island",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 16.09553982204109,
+      "lon": -92.18839357572499
+    },
+    "city": "Arturo Albores",
+    "country": "Mexico",
+    "region": "Chiapas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -26.432319223995805,
+      "lon": -143.62252203810945
+    },
+    "city": "Ahurei",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -30.883846332509464,
+      "lon": -62.36421636599341
+    },
+    "city": "Altos De Chipion",
+    "country": "Argentina",
+    "region": "Cordoba",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 43.85051244249918,
+      "lon": -96.7844324573008
+    },
+    "city": "Dell Rapids",
+    "country": "United States of America",
+    "region": "South Dakota",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 17.80463427948017,
+      "lon": -86.88731688981777
+    },
+    "city": "Bacalar Chico",
+    "country": "Belize",
+    "region": "Belize",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 12.925229348430932,
+      "lon": -86.36318846386666
+    },
+    "city": "Esteli",
+    "country": "Nicaragua",
+    "region": "Esteli",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 5.128154883671058,
+      "lon": -79.749404710665
+    },
+    "city": "El Sauce",
+    "country": "Peru",
+    "region": "Piura",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.246367832045252,
+      "lon": -59.585767005641706
+    },
+    "city": "Kokerit",
+    "country": "Guyana",
+    "region": "Barima-Waini",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 14.064321692881293,
+      "lon": -84.71512282232102
+    },
+    "city": "Bonanza",
+    "country": "Nicaragua",
+    "region": "Autonoma Atlantico Norte",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 42.68278897652077,
+      "lon": -110.20076084130932
+    },
+    "city": "Marbleton",
+    "country": "United States of America",
+    "region": "Wyoming",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.40395802597419,
+      "lon": -61.81817922468341
+    },
+    "city": "Simbolar",
+    "country": "Argentina",
+    "region": "Chaco",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.0175266011683135,
+      "lon": -77.53140383604966
+    },
+    "city": "Curiche",
+    "country": "Colombia",
+    "region": "Choco",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.9996585337700878,
+      "lon": -47.903170214350936
+    },
+    "city": "Terra Alta",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 15.086459043957092,
+      "lon": -63.60796720612192
+    },
+    "city": "Quartier Plaisable",
+    "country": "Martinique",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 46.618922339117006,
+      "lon": -85.468009628691
+    },
+    "city": "Pine Stump Junction",
+    "country": "United States of America",
+    "region": "Michigan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 35.557366077823666,
+      "lon": -90.52147536222519
+    },
+    "city": "Payneway",
+    "country": "United States of America",
+    "region": "Arkansas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.931203660732024,
+      "lon": -68.94451819280361
+    },
+    "city": "Buenos Aires",
+    "country": "Bolivia",
+    "region": "Pando",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 10.752476052985756,
+      "lon": -74.5850423577816
+    },
+    "city": "Sabanagrande",
+    "country": "Colombia",
+    "region": "Magdalena Department",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.317407243165718,
+      "lon": -79.82932250587336
+    },
+    "city": "Siderurgica",
+    "country": "Peru",
+    "region": "Ancash",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.808785680487702,
+      "lon": -90.0493770995602
+    },
+    "city": "Seymour",
+    "country": "Ecuador",
+    "region": "Galapagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.403059391328455,
+      "lon": -67.77905218180285
+    },
+    "city": "Huesito",
+    "country": "Colombia",
+    "region": "Guainia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -41.92319838300725,
+      "lon": -74.02286940095482
+    },
+    "city": "Ancud",
+    "country": "Chile",
+    "region": "Los Lagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.260548109053246,
+      "lon": -74.72805164577015
+    },
+    "city": "Buxton",
+    "country": "United States of America",
+    "region": "North Carolina",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 36.97650683189985,
+      "lon": -111.49883369718829
+    },
+    "city": "Wahweap",
+    "country": "United States of America",
+    "region": "Arizona",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.906948075181226,
+      "lon": -116.63241251212423
+    },
+    "city": "Tonkin",
+    "country": "United States of America",
+    "region": "Nevada",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 53.358413122244265,
+      "lon": -82.35311007673899
+    },
+    "city": "Attawapiskat",
+    "country": "Canada",
+    "region": "Ontario",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -27.540084632416495,
+      "lon": -65.50758169014136
+    },
+    "city": "Colonias Nueva Trinidad",
+    "country": "Argentina",
+    "region": "Tucuman",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 32.61536011306726,
+      "lon": -89.75136862361244
+    },
+    "city": "Ludlow",
+    "country": "United States of America",
+    "region": "Mississippi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.20679639334917965,
+      "lon": -49.43819368269695
+    },
+    "city": "Nazare",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 18.934053245124957,
+      "lon": -63.013806787155715
+    },
+    "city": "Shoal Bay Village",
+    "country": "Anguilla",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 56.353159663339206,
+      "lon": -69.89214635864106
+    },
+    "city": "South Road House",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 26.723334170818163,
+      "lon": -104.3553526375787
+    },
+    "city": "La Cruz",
+    "country": "Mexico",
+    "region": "Durango",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -29.918839815899233,
+      "lon": -67.38683259390281
+    },
+    "city": "Vilgo",
+    "country": "Argentina",
+    "region": "La Rioja",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 8.28819383113023,
+      "lon": -74.01643259109447
+    },
+    "city": "Morales",
+    "country": "Colombia",
+    "region": "Bolivar Department",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 14.437446971880206,
+      "lon": -93.21102655795804
+    },
+    "city": "Miguel Hidalgo",
+    "country": "Mexico",
+    "region": "Chiapas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 17.67474142219946,
+      "lon": -78.75378475106929
+    },
+    "city": "Saint Mary's",
+    "country": "Jamaica",
+    "region": "Saint Elizabeth",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -26.48219833155447,
+      "lon": -110.58936708023056
+    },
+    "city": "Moeiroa",
+    "country": "Chile",
+    "region": "Valparaiso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 30.398025472302265,
+      "lon": -80.49919011864662
+    },
+    "city": "Manhattan Beach",
+    "country": "United States of America",
+    "region": "Florida",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 27.005671032613222,
+      "lon": -110.90726331325833
+    },
+    "city": "Campo Liliva",
+    "country": "Mexico",
+    "region": "Sonora",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.374965671822736,
+      "lon": -75.77178659025543
+    },
+    "city": "Buenavista",
+    "country": "Colombia",
+    "region": "Quindio",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 54.59289249817733,
+      "lon": -132.97583400557156
+    },
+    "city": "Long Island",
+    "country": "United States of America",
+    "region": "Alaska",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 24.466394955855677,
+      "lon": -104.01752179599444
+    },
+    "city": "Juan Saldivar Avalos",
+    "country": "Mexico",
+    "region": "Durango",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 8.650510204704318,
+      "lon": -81.79321463307808
+    },
+    "city": "Medigumuto",
+    "country": "Panama",
+    "region": "Bocas del Toro",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -5.348220507409607,
+      "lon": -72.14654048745378
+    },
+    "city": "Franklin",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.77729265506375,
+      "lon": -102.00223520934256
+    },
+    "city": "Venango",
+    "country": "United States of America",
+    "region": "Nebraska",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 36.38161030523043,
+      "lon": -83.49433029580476
+    },
+    "city": "Raven Hill",
+    "country": "United States of America",
+    "region": "Tennessee",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.0565775729142075,
+      "lon": -63.23382068592319
+    },
+    "city": "Barcelos",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 18.66007479178066,
+      "lon": -85.05007763090403
+    },
+    "city": "Conico",
+    "country": "Cuba",
+    "region": "Pinar del Rio",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.0678025612507582,
+      "lon": -59.12959723623557
+    },
+    "city": "Casa Casimiro",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -35.88342725406439,
+      "lon": -59.19462236772126
+    },
+    "city": "Coronel Boerr",
+    "country": "Argentina",
+    "region": "Buenos Aires",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.835294715034976,
+      "lon": -82.06478452548942
+    },
+    "city": "El Sauce",
+    "country": "Peru",
+    "region": "Piura",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.043271110478415,
+      "lon": -93.44968510558618
+    },
+    "city": "El Parnaso",
+    "country": "Mexico",
+    "region": "Tabasco",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -11.38856975691732,
+      "lon": -63.39362234554976
+    },
+    "city": "Porto Primeiro De Fevereiro",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -34.261649091030264,
+      "lon": -72.10693131991465
+    },
+    "city": "Los Ranchones",
+    "country": "Chile",
+    "region": "Libertador General Bernardo O'Higgins",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.811556904257984,
+      "lon": -106.09826374705638
+    },
+    "city": "Los Alisos",
+    "country": "Mexico",
+    "region": "Durango",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.00989980784658,
+      "lon": -66.52652609953955
+    },
+    "city": "Gran Roque",
+    "country": "Venezuela",
+    "region": "Dependencias Federales",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -12.865609038496572,
+      "lon": -75.1882000097853
+    },
+    "city": "Citahuas",
+    "country": "Peru",
+    "region": "Huancavelica",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.27212850123138,
+      "lon": -115.86238474705759
+    },
+    "city": "La Colorada",
+    "country": "Mexico",
+    "region": "Baja California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 10.565169840378033,
+      "lon": -82.35103983928936
+    },
+    "city": "Barrio Nuevo",
+    "country": "Costa Rica",
+    "region": "Limon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.858804786621349,
+      "lon": -49.842809307373706
+    },
+    "city": "Gurgel",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.3107982634195707,
+      "lon": -80.38268449306648
+    },
+    "city": "El Sauce",
+    "country": "Peru",
+    "region": "Piura",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -2.010485195246929,
+      "lon": -61.09696186451758
+    },
+    "city": "Cemiterio Grande",
+    "country": "Brazil",
+    "region": "Roraima",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 19.69089188130276,
+      "lon": -94.88796502321772
+    },
+    "city": "Arroyo De Liza",
+    "country": "Mexico",
+    "region": "Veracruz-Llave",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 27.92115659738385,
+      "lon": -100.24681504368138
+    },
+    "city": "Los Cuates",
+    "country": "Mexico",
+    "region": "Coahuila",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 16.472604314910896,
+      "lon": -84.72879606700337
+    },
+    "city": "Pueblo Nuevo",
+    "country": "Honduras",
+    "region": "Gracias a Dios",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 25.61786950670009,
+      "lon": -100.25259084049156
+    },
+    "city": "La Presa",
+    "country": "Mexico",
+    "region": "Nuevo LeÃ³n",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.4263423411103133,
+      "lon": -76.69840708299506
+    },
+    "city": "Chichirota",
+    "country": "Ecuador",
+    "region": "Pastaza",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 9.63621963165103,
+      "lon": -63.213949176337664
+    },
+    "city": "Maturin",
+    "country": "Venezuela",
+    "region": "Monagas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -6.6609428975169465,
+      "lon": -63.656405267671936
+    },
+    "city": "Ipecu",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -26.30561155197971,
+      "lon": -61.112688762440705
+    },
+    "city": "Pampa Guanaco",
+    "country": "Argentina",
+    "region": "Chaco",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -11.183851879752737,
+      "lon": -73.03111191213866
+    },
+    "city": "Puerto Posital Maria",
+    "country": "Peru",
+    "region": "Ucayali",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -10.472249051449722,
+      "lon": -67.01908655061986
+    },
+    "city": "Abuna Chico",
+    "country": "Bolivia",
+    "region": "Pando",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 13.414731974474037,
+      "lon": -79.52328632826986
+    },
+    "city": "Mcbeans",
+    "country": "Colombia",
+    "region": "San Andres y Providencia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.2376912687021075,
+      "lon": -53.14061991381736
+    },
+    "city": "Joao Franca",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 44.572306110826986,
+      "lon": -103.00267075643535
+    },
+    "city": "Volunteer",
+    "country": "United States of America",
+    "region": "South Dakota",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -41.1529968689529,
+      "lon": -64.98038194468833
+    },
+    "city": "San Antonio Este",
+    "country": "Argentina",
+    "region": "Rio Negro",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.460241878107809,
+      "lon": -63.89896375723251
+    },
+    "city": "Guatisimina",
+    "country": "Venezuela",
+    "region": "Bolivar",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -32.255115611775494,
+      "lon": -72.00227130111148
+    },
+    "city": "Pichidangui",
+    "country": "Chile",
+    "region": "Coquimbo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.449768380232413,
+      "lon": -56.93506956772538
+    },
+    "city": "Puerto Rosario",
+    "country": "Paraguay",
+    "region": "San Pedro",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 8.881416157998473,
+      "lon": -75.86594192242778
+    },
+    "city": "Cerete",
+    "country": "Colombia",
+    "region": "Cordoba",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -5.440047881563828,
+      "lon": -76.92818529585804
+    },
+    "city": "Chayahuitas",
+    "country": "Peru",
+    "region": "Loreto",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -22.030341909730012,
+      "lon": -53.05925825360481
+    },
+    "city": "Fazenda Tres Barras",
+    "country": "Brazil",
+    "region": "Mato Grosso do Sul",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.63632911790024,
+      "lon": -118.0978985935089
+    },
+    "city": "Campamento Sur",
+    "country": "Mexico",
+    "region": "Baja California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.461094198866292,
+      "lon": -44.781767493470454
+    },
+    "city": "Paraim",
+    "country": "Brazil",
+    "region": "Piaui",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.154113926283983,
+      "lon": -67.59622265167941
+    },
+    "city": "Stella",
+    "country": "United States of America",
+    "region": "Puerto Rico",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 7.064515581181553,
+      "lon": -52.85896789070813
+    },
+    "city": "Roche Brigandin",
+    "country": "French Guiana",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 19.49123861077375,
+      "lon": -97.83154629585354
+    },
+    "city": "Cuatexmola (Xonacatitla)",
+    "country": "Mexico",
+    "region": "Puebla",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.086339830089685,
+      "lon": -79.54947818997259
+    },
+    "city": "Punta Mala",
+    "country": "Panama",
+    "region": "Los Santos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -17.24980467884862,
+      "lon": -67.90729531494668
+    },
+    "city": "Patacamaya",
+    "country": "Bolivia",
+    "region": "La Paz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.5674476478842365,
+      "lon": -69.94202546334155
+    },
+    "city": "Pata",
+    "country": "Colombia",
+    "region": "Vaupes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -35.840744981430404,
+      "lon": -67.08969136428796
+    },
+    "city": "Vista Alegre",
+    "country": "Argentina",
+    "region": "La Pampa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -19.75639626602016,
+      "lon": -56.79878462699207
+    },
+    "city": "Barra",
+    "country": "Brazil",
+    "region": "Mato Grosso do Sul",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.753240004414437,
+      "lon": -71.7954166358047
+    },
+    "city": "Tocopilla",
+    "country": "Chile",
+    "region": "Antofagasta",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 6.675707019945833,
+      "lon": -57.50286940269332
+    },
+    "city": "Lichfield",
+    "country": "Guyana",
+    "region": "Mahaica-Berbice",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 3.5020161993392662,
+      "lon": -74.04866149928418
+    },
+    "city": "Lejanias",
+    "country": "Colombia",
+    "region": "Meta",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 11.188305234558541,
+      "lon": -76.50254801683423
+    },
+    "city": "Punta Canoas",
+    "country": "Colombia",
+    "region": "Bolivar Department",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -12.011603659459482,
+      "lon": -60.07457367739322
+    },
+    "city": "3 Buritys",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -22.625525016392245,
+      "lon": -57.75701531430156
+    },
+    "city": "Puerto Pinasco",
+    "country": "Paraguay",
+    "region": "Presidente Hayes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.075333636722732,
+      "lon": -70.88456576007836
+    },
+    "city": "Fonseca",
+    "country": "Peru",
+    "region": "Loreto",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.340601950365098,
+      "lon": -54.53637214246712
+    },
+    "city": "Malaitawa",
+    "country": "Suriname",
+    "region": "Sipaliwini",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -19.905443439453563,
+      "lon": -61.626319194839425
+    },
+    "city": "Piquirenda",
+    "country": "Paraguay",
+    "region": "Alto Paraguay",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 10.038404397367714,
+      "lon": -72.73045254726432
+    },
+    "city": "Caraquita",
+    "country": "Venezuela",
+    "region": "Zulia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 13.244067251646939,
+      "lon": -61.82948376715315
+    },
+    "city": "Rutland Vale Village",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Saint Patrick",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.85033964048271,
+      "lon": -85.14248773014414
+    },
+    "city": "Fort Oglethorpe",
+    "country": "United States of America",
+    "region": "Georgia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -31.91038501514724,
+      "lon": -67.15694622213432
+    },
+    "city": "Chipisca",
+    "country": "Argentina",
+    "region": "San Luis",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.967155620724128,
+      "lon": -108.21963203844527
+    },
+    "city": "Batamotita",
+    "country": "Mexico",
+    "region": "Sinaloa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 36.380810273143744,
+      "lon": -122.16843768308524
+    },
+    "city": "Notleys Landing",
+    "country": "United States of America",
+    "region": "California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.54131088979171,
+      "lon": -73.57630869398223
+    },
+    "city": "Harvey Cedars",
+    "country": "United States of America",
+    "region": "New Jersey",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 32.22631553884729,
+      "lon": -99.68157358884955
+    },
+    "city": "Dudley",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -1.206321980353465,
+      "lon": -82.02119648960371
+    },
+    "city": "El Aromo",
+    "country": "Ecuador",
+    "region": "Manabi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 60.082550039777686,
+      "lon": -118.30959667115393
+    },
+    "city": "Kakisa",
+    "country": "Canada",
+    "region": "Northwest Territories",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -5.472203963883032,
+      "lon": -81.65383435797511
+    },
+    "city": "Foca",
+    "country": "Peru",
+    "region": "Piura",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.885928763484216,
+      "lon": -46.020002693288774
+    },
+    "city": "Carmo Do Rio Claro",
+    "country": "Brazil",
+    "region": "Minas Gerais",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -15.53663986721584,
+      "lon": -62.15440875440596
+    },
+    "city": "La Madre",
+    "country": "Bolivia",
+    "region": "Santa Cruz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.018531913317162,
+      "lon": -44.811866146250516
+    },
+    "city": "Riacho Fundo",
+    "country": "Brazil",
+    "region": "Maranhao",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -28.79463764879084,
+      "lon": -52.84972861900194
+    },
+    "city": "Espumoso",
+    "country": "Brazil",
+    "region": "Rio Grande do Sul",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 22.223519771216203,
+      "lon": -72.13918890016845
+    },
+    "city": "Sandy Point",
+    "country": "Turks and Caicos Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -16.289474338118055,
+      "lon": -146.59161270912523
+    },
+    "city": "Tupana",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.64623207903152,
+      "lon": -41.062997358801255
+    },
+    "city": "Vargem Alta",
+    "country": "Brazil",
+    "region": "Espirito Santo",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -32.16946109123863,
+      "lon": -69.58297418438657
+    },
+    "city": "Los Chacayes",
+    "country": "Argentina",
+    "region": "San Juan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -19.16776334083633,
+      "lon": -46.93703302838179
+    },
+    "city": "Sao Benedito",
+    "country": "Brazil",
+    "region": "Minas Gerais",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -23.116665066957438,
+      "lon": -64.70125956140546
+    },
+    "city": "Tres Palcas",
+    "country": "Argentina",
+    "region": "Salta",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -3.614319624602615,
+      "lon": -45.048706355217064
+    },
+    "city": "Horror",
+    "country": "Brazil",
+    "region": "Maranhao",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 57.088605118847646,
+      "lon": -59.23946236992193
+    },
+    "city": "Nain",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -11.130666308260572,
+      "lon": -52.56432009260685
+    },
+    "city": "Campo De Diauarum",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.628876718342525,
+      "lon": -51.251963988869576
+    },
+    "city": "Pereira Barreto",
+    "country": "Brazil",
+    "region": "Sao Paulo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -28.21302374788428,
+      "lon": -60.519287669735014
+    },
+    "city": "Canada Ombu",
+    "country": "Argentina",
+    "region": "Santa Fe",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.0318273824747,
+      "lon": -103.48276002663053
+    },
+    "city": "Tobe",
+    "country": "United States of America",
+    "region": "Colorado",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 30.656604736256092,
+      "lon": -102.23493003266391
+    },
+    "city": "Bakersfield",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.48794492062943,
+      "lon": -118.99057798118562
+    },
+    "city": "Isla Coronado",
+    "country": "Mexico",
+    "region": "Baja California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.097434892919281,
+      "lon": -136.91518713785402
+    },
+    "city": "Ouia",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -52.15085197727143,
+      "lon": -58.775069535522654
+    },
+    "city": "Walker Creek",
+    "country": "Falkland Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 54.59856245932496,
+      "lon": -66.51131558238986
+    },
+    "city": "Knob Lake",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 9.11001931191575,
+      "lon": -79.77346001936134
+    },
+    "city": "Santa Clara",
+    "country": "Panama",
+    "region": "Panama",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.045216339522995,
+      "lon": -60.79509244603907
+    },
+    "city": "The Caves",
+    "country": "Antigua and Barbuda",
+    "region": "Barbuda",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 60.98371987069673,
+      "lon": -66.52150592458942
+    },
+    "city": "Burwell",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 48.597842942873854,
+      "lon": -55.72584703007972
+    },
+    "city": "Grand Falls",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -11.026721951740612,
+      "lon": -49.854755310234744
+    },
+    "city": "Lagoa Da Confusao",
+    "country": "Brazil",
+    "region": "Tocantins",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 45.147806660433346,
+      "lon": -70.37227493667841
+    },
+    "city": "Stratton",
+    "country": "United States of America",
+    "region": "Maine",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -12.404724461483767,
+      "lon": -56.9793847304242
+    },
+    "city": "Marape",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 52.12777346331755,
+      "lon": -129.96756631915207
+    },
+    "city": "Rose Harbour",
+    "country": "Canada",
+    "region": "British Columbia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 40.98056305164057,
+      "lon": -107.82308452268224
+    },
+    "city": "Baggs",
+    "country": "United States of America",
+    "region": "Wyoming",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 49.55499987963575,
+      "lon": -127.1449133056224
+    },
+    "city": "Centre Island",
+    "country": "Canada",
+    "region": "British Columbia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -45.51643039941894,
+      "lon": -75.93566310692925
+    },
+    "city": "Puerto Aguirre",
+    "country": "Chile",
+    "region": "Aisen del General Carlos Ibanez del Campo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 54.844955702625256,
+      "lon": -105.70339391394255
+    },
+    "city": "Lac La Ronge",
+    "country": "Canada",
+    "region": "Saskatchewan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.04488283662124104,
+      "lon": -73.15660088902614
+    },
+    "city": "Macuje",
+    "country": "Colombia",
+    "region": "Caqueta",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -30.21102164153345,
+      "lon": -72.04680159896056
+    },
+    "city": "Lengua De Vaca",
+    "country": "Chile",
+    "region": "Coquimbo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -52.384745913061664,
+      "lon": -73.92798592796606
+    },
+    "city": "Puerto Laforest",
+    "country": "Chile",
+    "region": "Magallanes y de la Antartica Chilena",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -18.889390261814057,
+      "lon": -150.1518080423298
+    },
+    "city": "Maraa",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -25.948188354203012,
+      "lon": -48.79380632761627
+    },
+    "city": "Rio Da Praia",
+    "country": "Brazil",
+    "region": "Parana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 50.77022544188726,
+      "lon": -57.857923118841725
+    },
+    "city": "Port Au Choix",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.56031195765526,
+      "lon": -91.7599995192667
+    },
+    "city": "Burns",
+    "country": "United States of America",
+    "region": "Louisiana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 49.690485716772486,
+      "lon": -110.05239370558458
+    },
+    "city": "Walsh",
+    "country": "Canada",
+    "region": "Alberta",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 61.1526628887948,
+      "lon": -101.90493609466081
+    },
+    "city": "Ennadai",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.128070314540494,
+      "lon": -80.41487083613447
+    },
+    "city": "Cacique",
+    "country": "Panama",
+    "region": "Colon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 56.354282649451214,
+      "lon": -108.47534187147106
+    },
+    "city": "Dillon",
+    "country": "Canada",
+    "region": "Saskatchewan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 57.245061304756085,
+      "lon": -92.05203871256609
+    },
+    "city": "York Factory",
+    "country": "Canada",
+    "region": "Manitoba",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.74367040730896,
+      "lon": -113.5915776446893
+    },
+    "city": "El Aguaje",
+    "country": "Mexico",
+    "region": "Baja California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 43.36690776617388,
+      "lon": -68.26745340731017
+    },
+    "city": "Criehaven",
+    "country": "United States of America",
+    "region": "Maine",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 51.65338548340432,
+      "lon": -119.66531627568803
+    },
+    "city": "Mcmurphy",
+    "country": "Canada",
+    "region": "British Columbia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.36265375346198,
+      "lon": -85.99514964945675
+    },
+    "city": "Elwood",
+    "country": "United States of America",
+    "region": "Indiana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -6.891492091513456,
+      "lon": -56.98820627032759
+    },
+    "city": "Uari",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -17.274592587854812,
+      "lon": -60.86810986683734
+    },
+    "city": "Taquitaqui",
+    "country": "Bolivia",
+    "region": "Santa Cruz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.012565734021749,
+      "lon": -59.16031278668791
+    },
+    "city": "Poirer",
+    "country": "Martinique",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.447360262676206,
+      "lon": -113.72272097537918
+    },
+    "city": "Gold Hill",
+    "country": "United States of America",
+    "region": "Utah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -15.580100450008018,
+      "lon": -54.40775498998849
+    },
+    "city": "Germano",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -3.278187042900555,
+      "lon": -62.54236481838628
+    },
+    "city": "Boca Do Caju",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -10.323376616189947,
+      "lon": -77.44851395386449
+    },
+    "city": "Congas",
+    "country": "Peru",
+    "region": "Ancash",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 46.099033637349805,
+      "lon": -51.10727969124071
+    },
+    "city": "Cape Race",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -2.303759987536907,
+      "lon": -68.94791968094097
+    },
+    "city": "Capana",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.1050553639085763,
+      "lon": -54.83054000765113
+    },
+    "city": "Cinco Anzois",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.812461581700973,
+      "lon": -84.96576850150166
+    },
+    "city": "Eufaula",
+    "country": "United States of America",
+    "region": "Alabama",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -37.805410100705146,
+      "lon": -59.12053472481387
+    },
+    "city": "La Negra",
+    "country": "Argentina",
+    "region": "Buenos Aires",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.243451169380009,
+      "lon": -50.15046161829666
+    },
+    "city": "Euca",
+    "country": "Brazil",
+    "region": "Amapa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -8.00792652358065,
+      "lon": -61.749877599197085
+    },
+    "city": "Benigno",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -54.03143981648856,
+      "lon": -59.65984421596875
+    },
+    "city": "El Prado",
+    "country": "Argentina",
+    "region": "Santa Fe",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -7.3886679534504935,
+      "lon": -80.50136746814887
+    },
+    "city": "Eten Puerto",
+    "country": "Peru",
+    "region": "Lambayeque",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -6.461742899247909,
+      "lon": -42.453222198598496
+    },
+    "city": "Jatoba",
+    "country": "Brazil",
+    "region": "Piaui",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 60.60275740094475,
+      "lon": -70.4976492960715
+    },
+    "city": "Diana Bay",
+    "country": "Canada",
+    "region": "Quebec",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 6.432180516047509,
+      "lon": -67.77828384772035
+    },
+    "city": "El Pasmo",
+    "country": "Venezuela",
+    "region": "Apure",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.41139646543217,
+      "lon": -97.97088630357028
+    },
+    "city": "Seguin",
+    "country": "United States of America",
+    "region": "Texas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 11.322823947841613,
+      "lon": -78.45554518628026
+    },
+    "city": "Waisalatupo",
+    "country": "Panama",
+    "region": "San Blas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 63.97202669960155,
+      "lon": -95.88149292122364
+    },
+    "city": "Kangerjuaq",
+    "country": "Canada",
+    "region": "Nunavut",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 51.26306841385142,
+      "lon": 124.82092900433844
+    },
+    "city": "Taiyanggou",
+    "country": "China",
+    "region": "Nei Mongol",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.568876461741468,
+      "lon": -150.36132143205057
+    },
+    "city": "Moerai",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 57.256852108379306,
+      "lon": -124.47162456141167
+    },
+    "city": "Whitewater",
+    "country": "Canada",
+    "region": "British Columbia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 4.251428999703506,
+      "lon": -51.856291666498265
+    },
+    "city": "Degrad Jean-Jean",
+    "country": "French Guiana",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 0.8874149019196977,
+      "lon": -58.53973444043178
+    },
+    "city": "Yepi Village",
+    "country": "Guyana",
+    "region": "Upper Takutu-Upper Essequibo",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -29.027920332489003,
+      "lon": -143.50025626531166
+    },
+    "city": "Ahurei",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -47.13998744349141,
+      "lon": -70.17614372159734
+    },
+    "city": "La Maria",
+    "country": "Argentina",
+    "region": "Santa Cruz",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.6661273117590696,
+      "lon": -31.821234832256977
+    },
+    "city": "Vila Dos Remedios",
+    "country": "Brazil",
+    "region": "Pernambuco",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 9.168189006092973,
+      "lon": -77.7919588331595
+    },
+    "city": "Ustupo",
+    "country": "Panama",
+    "region": "San Blas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 35.238306675937324,
+      "lon": -106.50616395284644
+    },
+    "city": "Bernalillo",
+    "country": "United States of America",
+    "region": "New Mexico",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 35.026938390420874,
+      "lon": -111.65268005594015
+    },
+    "city": "Flagstaff",
+    "country": "United States of America",
+    "region": "Arizona",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.010419967440257,
+      "lon": -75.47671512990793
+    },
+    "city": "Puente Aguaytia",
+    "country": "Peru",
+    "region": "Ucayali",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -12.240653157128364,
+      "lon": -77.33833741851136
+    },
+    "city": "Colonia Penal",
+    "country": "Peru",
+    "region": "Callao",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.363585496047264,
+      "lon": -89.43115452027388
+    },
+    "city": "La Baronesa",
+    "country": "Ecuador",
+    "region": "Galapagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.168548903501218,
+      "lon": -65.61001164326314
+    },
+    "city": "Maucuilata",
+    "country": "Bolivia",
+    "region": "Potosi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 14.283320958856237,
+      "lon": -88.00466284043287
+    },
+    "city": "Santiago De Puringla",
+    "country": "Honduras",
+    "region": "Intibuca",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 22.9206655068254,
+      "lon": -74.58238281612766
+    },
+    "city": "Landrail Point Settlement",
+    "country": "Bahamas",
+    "region": "Acklins and Crooked Islands",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.820884531649199,
+      "lon": -65.17579027478386
+    },
+    "city": "San Gonzalo",
+    "country": "Bolivia",
+    "region": "Pando",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.13449459680723,
+      "lon": -61.3466441355236
+    },
+    "city": "Berekua",
+    "country": "Dominica",
+    "region": "Saint Patrick",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 0.43716702773483007,
+      "lon": -77.14297722517885
+    },
+    "city": "Columbia",
+    "country": "Ecuador",
+    "region": "Sucumbios",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -2.7123891582341884,
+      "lon": -56.019620340140946
+    },
+    "city": "Juruti Velho",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.999396174566641,
+      "lon": -78.19258840819091
+    },
+    "city": "La Ensenada",
+    "country": "Colombia",
+    "region": "Narino",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -8.994427956331975,
+      "lon": -63.41823234976647
+    },
+    "city": "Abrahao",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.626608854008197,
+      "lon": -56.87634425902815
+    },
+    "city": "Feitoria Gelo",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -0.928684350637127,
+      "lon": -92.77044475003163
+    },
+    "city": "Santo Tomas",
+    "country": "Ecuador",
+    "region": "Galapagos",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.38291819869924,
+      "lon": -95.05920841399148
+    },
+    "city": "Parsons",
+    "country": "United States of America",
+    "region": "Kansas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 35.22038048736175,
+      "lon": -109.07133987709746
+    },
+    "city": "Allentown",
+    "country": "United States of America",
+    "region": "Arizona",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 1.2730915457335215,
+      "lon": -79.09505491180992
+    },
+    "city": "Valdez",
+    "country": "Ecuador",
+    "region": "Esmeraldas",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 36.69876635746407,
+      "lon": -100.90876944984055
+    },
+    "city": "Boyd",
+    "country": "United States of America",
+    "region": "Oklahoma",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.64383104673891,
+      "lon": -65.28069996681413
+    },
+    "city": "Vinet",
+    "country": "United States of America",
+    "region": "Puerto Rico",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.0906906708270583,
+      "lon": -90.88332916657255
+    },
+    "city": "Villamil",
+    "country": "Ecuador",
+    "region": "Galapagos",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -12.994546468018612,
+      "lon": -61.795698893182355
+    },
+    "city": "Barranco Alto",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -14.63672905602634,
+      "lon": -60.35476845787943
+    },
+    "city": "Porto Antigo",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 14.874775635725214,
+      "lon": -82.91051691609208
+    },
+    "city": "Puerto Cabo Gracias A Dios",
+    "country": "Nicaragua",
+    "region": "Autonoma Atlantico Norte",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -29.515023925716662,
+      "lon": -65.06346772139862
+    },
+    "city": "Los Sunchos",
+    "country": "Argentina",
+    "region": "Catamarca",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -27.32635701376101,
+      "lon": -58.32875283780935
+    },
+    "city": "Ramada Paso",
+    "country": "Argentina",
+    "region": "Corrientes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.900188280438087,
+      "lon": -64.8787142914658
+    },
+    "city": "Warwick Camp",
+    "country": "Bermuda",
+    "region": "Warwick",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.227224053429254,
+      "lon": -116.28447195257148
+    },
+    "city": "Familia Martinez Almanza",
+    "country": "Mexico",
+    "region": "Baja California",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.2547332541047638,
+      "lon": -64.74262032910673
+    },
+    "city": "Jacitara",
+    "country": "Brazil",
+    "region": "Amazonas",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 22.793700686542422,
+      "lon": -107.56954592462232
+    },
+    "city": "Lomas Del Mar De Piaxtla (La Playa)",
+    "country": "Mexico",
+    "region": "Sinaloa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -28.384152005605756,
+      "lon": -109.96624381610746
+    },
+    "city": "Moeiroa",
+    "country": "Chile",
+    "region": "Valparaiso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -14.165594430419844,
+      "lon": -77.52479635843177
+    },
+    "city": "Lagunilla",
+    "country": "Peru",
+    "region": "Ica",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.478557815578654,
+      "lon": -61.66392824590988
+    },
+    "city": "Conceicao",
+    "country": "Brazil",
+    "region": "Rondonia",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 45.64663489166986,
+      "lon": 109.17409507517301
+    },
+    "city": "Hara Ayrag",
+    "country": "Mongolia",
+    "region": "Dornogovi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -33.80277312754643,
+      "lon": -54.1929754463733
+    },
+    "city": "Lascano",
+    "country": "Uruguay",
+    "region": "Rocha",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.987805650680087,
+      "lon": -99.72712689396859
+    },
+    "city": "San Andres Playa Encantada (El Podrido)",
+    "country": "Mexico",
+    "region": "Guerrero",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 9.067012743988897,
+      "lon": -70.96367108694913
+    },
+    "city": "Yagrumal",
+    "country": "Venezuela",
+    "region": "Merida",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -27.00378827492871,
+      "lon": -63.28956589764171
+    },
+    "city": "El Hoyo",
+    "country": "Argentina",
+    "region": "Santiago del Estero",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -8.116820416447467,
+      "lon": -52.54701634638915
+    },
+    "city": "Posto Cocraimoro",
+    "country": "Brazil",
+    "region": "Para",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -23.515492045708342,
+      "lon": 24.516900880011537
+    },
+    "city": "Kuke",
+    "country": "Botswana",
+    "region": "Central",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 42.77246322783116,
+      "lon": -70.77024841344802
+    },
+    "city": "Newburyport",
+    "country": "United States of America",
+    "region": "Massachusetts",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.04369579617194,
+      "lon": -79.76213384221103
+    },
+    "city": "Pleasant Run",
+    "country": "United States of America",
+    "region": "West Virginia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.838812068254853,
+      "lon": -78.15203579282269
+    },
+    "city": "Puerto Galilea",
+    "country": "Peru",
+    "region": "Loreto",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -12.608844972046398,
+      "lon": -54.05937565435465
+    },
+    "city": "Aldeia Bacaeri",
+    "country": "Brazil",
+    "region": "Mato Grosso",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -18.91736706632868,
+      "lon": -41.96016301341432
+    },
+    "city": "Governador Valadares",
+    "country": "Brazil",
+    "region": "Minas Gerais",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -32.04216149013399,
+      "lon": -59.65125885023138
+    },
+    "city": "El Pueblito",
+    "country": "Argentina",
+    "region": "Entre Rios",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 42.7159163049962,
+      "lon": -77.64121605627952
+    },
+    "city": "Conesus",
+    "country": "United States of America",
+    "region": "New York",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -26.027674573846994,
+      "lon": -70.43499301356643
+    },
+    "city": "Carrizalillo",
+    "country": "Chile",
+    "region": "Atacama",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -13.654271295412627,
+      "lon": -139.37529522164473
+    },
+    "city": "Teonemahima",
+    "country": "French Polynesia Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.24795487816921,
+      "lon": -83.53832061028585
+    },
+    "city": "Davis",
+    "country": "Cuba",
+    "region": "Isla de la Juventud",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.4920227124580805,
+      "lon": -52.04826290733878
+    },
+    "city": "Aciline",
+    "country": "Brazil",
+    "region": "Amapa",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 4.706815895584043,
+      "lon": 128.46941375557927
+    },
+    "city": "Laluhe",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.02758130156232,
+      "lon": 126.55593330053401
+    },
+    "city": "Balgo Hill",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 12.30396462563425,
+      "lon": 31.170636731483086
+    },
+    "city": "Kamsura",
+    "country": "Sudan",
+    "region": "Kurdufan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -19.551255607408606,
+      "lon": 123.75319013168894
+    },
+    "city": "Udialla",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 63.665944016412695,
+      "lon": 88.75945858007618
+    },
+    "city": "Nizhne-Imbatskoye",
+    "country": "Russia",
+    "region": "Krasnoyarsk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 5.739339882184126,
+      "lon": 30.266758136720195
+    },
+    "city": "Andari",
+    "country": "Sudan",
+    "region": "Al Istiwa'iyah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 45.993346672907705,
+      "lon": 48.4463956357364
+    },
+    "city": "Kaspiy",
+    "country": "Russia",
+    "region": "Astrakhan'",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 62.746317887292406,
+      "lon": 79.52546882550334
+    },
+    "city": "Aganty",
+    "country": "Russia",
+    "region": "Khanty-Mansiy",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 24.837671849799293,
+      "lon": 59.796150277789124
+    },
+    "city": "Tang",
+    "country": "Iran",
+    "region": "Sistan va Baluchestan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.127339076144196,
+      "lon": 82.86923303644441
+    },
+    "city": "Tatirkotan",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 61.08845000859902,
+      "lon": 82.3003517361272
+    },
+    "city": "Yurty Korliki",
+    "country": "Russia",
+    "region": "Khanty-Mansiy",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 61.25711989922033,
+      "lon": 76.76121201733017
+    },
+    "city": "Soromina",
+    "country": "Russia",
+    "region": "Khanty-Mansiy",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 36.43757210162022,
+      "lon": 103.49266486405901
+    },
+    "city": "Khunchentszo",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -40.865626284768496,
+      "lon": 144.0758494491482
+    },
+    "city": "Marrawah",
+    "country": "Australia",
+    "region": "Tasmania",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 57.064779526750726,
+      "lon": 54.36830675390175
+    },
+    "city": "Kiselev",
+    "country": "Russia",
+    "region": "Perm'",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.283991598958664,
+      "lon": 141.05758178217332
+    },
+    "city": "Kitakami",
+    "country": "Japan",
+    "region": "Iwate",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.811793976985868,
+      "lon": 54.83393581244943
+    },
+    "city": "Mughshin",
+    "country": "Oman",
+    "region": "Zufar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 0.6511517833681637,
+      "lon": 130.90915824497
+    },
+    "city": "Imbik Kuan",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -24.42348927318025,
+      "lon": 148.85670056498802
+    },
+    "city": "Rolleston",
+    "country": "Australia",
+    "region": "Queensland",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.4402591825638638,
+      "lon": 32.961262335754505
+    },
+    "city": "Mubule",
+    "country": "Tanzania",
+    "region": "Mwanza",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -8.643503690720891,
+      "lon": 152.8264818203842
+    },
+    "city": "Kaurai",
+    "country": "Papua New Guinea",
+    "region": "Milne Bay",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 34.77838853329383,
+      "lon": 105.02076726829934
+    },
+    "city": "Lomen",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 39.45848668439352,
+      "lon": 85.49511614837283
+    },
+    "city": "Tatrang",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -34.617090361282905,
+      "lon": 147.72094537803406
+    },
+    "city": "Junee Reefs",
+    "country": "Australia",
+    "region": "New South Wales",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.10696358366822,
+      "lon": 94.04491764902261
+    },
+    "city": "Chalengkou",
+    "country": "China",
+    "region": "Qinghai",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 36.67796740065413,
+      "lon": 141.660492534661
+    },
+    "city": "Ena",
+    "country": "Japan",
+    "region": "Fukushima",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.14316858936587,
+      "lon": 28.202996808494486
+    },
+    "city": "Chief Sai",
+    "country": "Zimbabwe",
+    "region": "Matabeleland North",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 60.488615590958645,
+      "lon": 104.68747963118766
+    },
+    "city": "Kulinda",
+    "country": "Russia",
+    "region": "Evenk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.552562309063205,
+      "lon": 61.277633625809436
+    },
+    "city": "Gavatamak",
+    "country": "Iran",
+    "region": "Sistan va Baluchestan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 50.70014537020014,
+      "lon": 130.9885722820379
+    },
+    "city": "Sektagli",
+    "country": "Russia",
+    "region": "Amur",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 32.86298299881189,
+      "lon": 34.16425381945187
+    },
+    "city": "Kefar Shamir",
+    "country": "Israel",
+    "region": "Hefa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -25.30816958684325,
+      "lon": 121.60962068373327
+    },
+    "city": "Ives Find",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.97299869616166,
+      "lon": 77.86091869741931
+    },
+    "city": "Changlung",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.58572896214867,
+      "lon": 56.33768584698898
+    },
+    "city": "Ab Zaminoo",
+    "country": "Iran",
+    "region": "Hormozgan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 42.74167092904587,
+      "lon": 88.30545049461503
+    },
+    "city": "Yilahu",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.88626480395564,
+      "lon": 126.40588758005752
+    },
+    "city": "Warburton",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -35.346414711833745,
+      "lon": 116.22640183933031
+    },
+    "city": "Windy Harbour",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -31.920289587420356,
+      "lon": 121.00659480390817
+    },
+    "city": "Pioneer",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.948906339289813,
+      "lon": 122.53372715529152
+    },
+    "city": "Gangli",
+    "country": "China",
+    "region": "Zhejiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 41.1009776930811,
+      "lon": 74.3736571169821
+    },
+    "city": "Dzhergetal",
+    "country": "Kyrghyzstan",
+    "region": "Naryn",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.73931975093676,
+      "lon": 110.70080904108933
+    },
+    "city": "Tungshanti",
+    "country": "China",
+    "region": "Shanxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -8.91225611745547,
+      "lon": 131.90219586037873
+    },
+    "city": "Falar",
+    "country": "Indonesia",
+    "region": "Maluku",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.34195375057145,
+      "lon": 55.2911278565966
+    },
+    "city": "Nau",
+    "country": "Iran",
+    "region": "Yazd",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.93563901513346,
+      "lon": 68.05666332711873
+    },
+    "city": "Tamarkhut",
+    "country": "Uzbekistan",
+    "region": "Surkhondaryo",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.07673798082693395,
+      "lon": 128.32547699284035
+    },
+    "city": "Wosi",
+    "country": "Indonesia",
+    "region": "Maluku Utara",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 42.088661400649755,
+      "lon": 99.69950693002745
+    },
+    "city": "Saihantaolai",
+    "country": "China",
+    "region": "Nei Mongol",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.617304111182378,
+      "lon": 119.95235440157822
+    },
+    "city": "Lionel",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.7839366844921187,
+      "lon": 132.88700483974785
+    },
+    "city": "Sopinusa",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -29.053298856953475,
+      "lon": 122.8600500921795
+    },
+    "city": "Burtville",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -20.587469713847256,
+      "lon": 59.511763105662176
+    },
+    "city": "Pointe Aux Feuilles",
+    "country": "Mauritius",
+    "region": "Flacq",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.53009349767686,
+      "lon": 121.53307424319792
+    },
+    "city": "Rarasi",
+    "country": "Philippines",
+    "region": "Cagayan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 5.422253919675768,
+      "lon": 46.967845515161386
+    },
+    "city": "Odan",
+    "country": "Somalia",
+    "region": "Galguduud",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -25.55645950848846,
+      "lon": 114.53538742261824
+    },
+    "city": "Gladstone",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.64395137320351,
+      "lon": 101.88721292559445
+    },
+    "city": "Gurnai Sum",
+    "country": "China",
+    "region": "Nei Mongol",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.723889906869047,
+      "lon": 50.35873280464592
+    },
+    "city": "Saddat Ash Shuqah",
+    "country": "Yemen",
+    "region": "San",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.329176764354557,
+      "lon": 64.74502651725228
+    },
+    "city": "Niabat",
+    "country": "Pakistan",
+    "region": "Balochistan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.75644041109713,
+      "lon": 93.47354760810912
+    },
+    "city": "Houkeng",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 34.51784656534179,
+      "lon": 80.27111093520602
+    },
+    "city": "Sumxi",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 32.14494204515542,
+      "lon": 109.62914944195084
+    },
+    "city": "Shangeping",
+    "country": "China",
+    "region": "Hubei",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 5.616618051348681,
+      "lon": 126.68326947481692
+    },
+    "city": "Miangas",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 7.535645078363558,
+      "lon": 127.44314414042437
+    },
+    "city": "Languyon",
+    "country": "Philippines",
+    "region": "Davao Oriental",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 16.812633489196728,
+      "lon": 54.14933042962947
+    },
+    "city": "Hafa",
+    "country": "Oman",
+    "region": "Zufar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.811145823840533,
+      "lon": 53.707259025734025
+    },
+    "city": "Qalansiya",
+    "country": "Yemen",
+    "region": "Al Mahrah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 35.749038116695885,
+      "lon": 107.14941846186157
+    },
+    "city": "Wanggoupan",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 22.790204389551334,
+      "lon": 55.77680014997344
+    },
+    "city": "Khuldah",
+    "country": "Oman",
+    "region": "Az Zahirah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.10525043679168,
+      "lon": 76.48483186428888
+    },
+    "city": "Aqqik",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -22.353810470934818,
+      "lon": 55.27146241045754
+    },
+    "city": "Verger Hemery",
+    "country": "Reunion and associated islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 5.353756571364386,
+      "lon": 121.9618156135475
+    },
+    "city": "Tabiauan",
+    "country": "Philippines",
+    "region": "Sulu",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 35.2975008423791,
+      "lon": 94.45217881422676
+    },
+    "city": "Xiaonanchuan",
+    "country": "China",
+    "region": "Qinghai",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 36.91847185641209,
+      "lon": 78.44941625977668
+    },
+    "city": "Kangkoerh",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 14.839335124325174,
+      "lon": 125.2196670286351
+    },
+    "city": "Marambong",
+    "country": "Philippines",
+    "region": "Catanduanes",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -25.01562666084952,
+      "lon": 116.6812000530352
+    },
+    "city": "Bangemall",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.59814166210039,
+      "lon": 54.965553545106
+    },
+    "city": "As Shahamah",
+    "country": "United Arab Emirates",
+    "region": "Abu Dhabi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.882736442606287,
+      "lon": 120.85118971638319
+    },
+    "city": "Broome",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.27959513843733,
+      "lon": 70.36019129186539
+    },
+    "city": "Dilawar Chang",
+    "country": "Pakistan",
+    "region": "Punjab",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 32.37020342567786,
+      "lon": 101.06687511622417
+    },
+    "city": "Nanmuta",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 8.955972122383585,
+      "lon": 123.60696736225586
+    },
+    "city": "Lazi",
+    "country": "Philippines",
+    "region": "Siquijor",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -21.15256137512982,
+      "lon": 114.99176941916451
+    },
+    "city": "Onslow",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -20.480133194160345,
+      "lon": 57.365507817626984
+    },
+    "city": "La Gaulette",
+    "country": "Mauritius",
+    "region": "Black River",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -20.23147170591116,
+      "lon": 55.2656479063071
+    },
+    "city": "La Petite Ile",
+    "country": "Reunion and associated islands",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -12.086411952618064,
+      "lon": 56.468057707103476
+    },
+    "city": "Porte Sainte Rita",
+    "country": "Mauritius",
+    "region": "Pamplemousses",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.217127400492473,
+      "lon": 105.39959018906373
+    },
+    "city": "Anju",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.211212245292636,
+      "lon": 74.89154322411586
+    },
+    "city": "Patti",
+    "country": "India",
+    "region": "Punjab",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 8.302895396749577,
+      "lon": 125.56798259866113
+    },
+    "city": "Binucayan",
+    "country": "Philippines",
+    "region": "Agusan del Sur",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -10.297384664853112,
+      "lon": 118.8835592711026
+    },
+    "city": "Rica",
+    "country": "Indonesia",
+    "region": "East Nusa Tenggara",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 20.25353616359547,
+      "lon": 59.565690970401995
+    },
+    "city": "Rassier",
+    "country": "Oman",
+    "region": "Ash Sharqiyah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.836784994843555,
+      "lon": 120.83316620901454
+    },
+    "city": "Sanjiapu",
+    "country": "China",
+    "region": "Zhejiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -5.110515194768823,
+      "lon": 54.66087404837987
+    },
+    "city": "Port Glaud",
+    "country": "Seychelles Islands",
+    "region": "Beau Vallon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.07653313117493,
+      "lon": 110.12644980772356
+    },
+    "city": "Nalintsaitang",
+    "country": "China",
+    "region": "Shaanxi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 35.9403852642746,
+      "lon": 88.98063868227862
+    },
+    "city": "Rolagang",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -1.7084115901244417,
+      "lon": 119.39142250220776
+    },
+    "city": "More",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.469796114524925,
+      "lon": 60.762359801425205
+    },
+    "city": "Kalateh-Ye Hiâ§Ajji `Abdol",
+    "country": "Iran",
+    "region": "Sistan va Baluchestan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.333740512583162,
+      "lon": 53.01890168275947
+    },
+    "city": "Dhawaihir",
+    "country": "United Arab Emirates",
+    "region": "Abu Dhabi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.60270876925231,
+      "lon": 58.51445997698275
+    },
+    "city": "Abad Chehel Tan",
+    "country": "Iran",
+    "region": "Kerman",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 17.595881926501377,
+      "lon": 119.19755379003732
+    },
+    "city": "Sinabaan",
+    "country": "Philippines",
+    "region": "Ilocos Sur",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -21.580999236130353,
+      "lon": 112.94886920099682
+    },
+    "city": "Bundera Bundera",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 32.96641628174749,
+      "lon": 77.43634297907107
+    },
+    "city": "Kyonon",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -6.62494581624,
+      "lon": 120.33774520951592
+    },
+    "city": "Limba",
+    "country": "Indonesia",
+    "region": "South Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.534269745166625,
+      "lon": 123.61580980358883
+    },
+    "city": "Hateruma",
+    "country": "Japan",
+    "region": "Okinawa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.259654194902936,
+      "lon": 91.80930600055848
+    },
+    "city": "Lapeiquan",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.892604521292668,
+      "lon": 50.95196027092116
+    },
+    "city": "Qusay`Ir",
+    "country": "Yemen",
+    "region": "Hadramawt",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.50250066025054,
+      "lon": 99.81639080272204
+    },
+    "city": "Heichuan",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 38.630817909031265,
+      "lon": 87.98135300453897
+    },
+    "city": "Tatelekopulako",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 31.266100373158487,
+      "lon": 107.47878407284294
+    },
+    "city": "Daxian",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 42.39109429626364,
+      "lon": 81.217210687547
+    },
+    "city": "Hanyaylak",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -36.65895055186667,
+      "lon": 78.35787853142538
+    },
+    "city": "Amsterdam Island",
+    "country": "French Southern and Antarctic Lands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.518872012756667,
+      "lon": 81.2343007588273
+    },
+    "city": "Thanagaon",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -23.574429834685233,
+      "lon": 113.81522771523072
+    },
+    "city": "Bundera Bundera",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.725571395926337,
+      "lon": 118.61058639286762
+    },
+    "city": "Jiling",
+    "country": "China",
+    "region": "Fujian",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 36.569376605526124,
+      "lon": 109.36476777475738
+    },
+    "city": "Yanan",
+    "country": "China",
+    "region": "Shaanxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -21.771301161925592,
+      "lon": 127.4862971646464
+    },
+    "city": "Balgo Hill",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -10.170677242209194,
+      "lon": 57.06506194254001
+    },
+    "city": "Porte Sainte Rita",
+    "country": "Mauritius",
+    "region": "Pamplemousses",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -33.403586478323305,
+      "lon": 116.12891750007746
+    },
+    "city": "Collie",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 25.02172449874729,
+      "lon": 69.02444137016559
+    },
+    "city": "Tando Ghulam Ali",
+    "country": "Pakistan",
+    "region": "Sindh",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.329593489433066,
+      "lon": 81.8328138223763
+    },
+    "city": "Tungkutzupassute",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -23.084436940074994,
+      "lon": 115.90405175577392
+    },
+    "city": "Bangemall",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.424310988441803,
+      "lon": 57.47068917077763
+    },
+    "city": "Beau Mangue",
+    "country": "Northern Mariana Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 7.117549856421675,
+      "lon": 122.8414641476239
+    },
+    "city": "Pololaum",
+    "country": "Philippines",
+    "region": "Zamboanga del Sur",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 33.2596707889996,
+      "lon": 75.05277579149059
+    },
+    "city": "Ramban",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -22.429619522288647,
+      "lon": 117.95397171906275
+    },
+    "city": "Pilbara Mining Centre",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 17.272407269868197,
+      "lon": 123.47616560841307
+    },
+    "city": "Ermita",
+    "country": "Philippines",
+    "region": "Isabela",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -16.950466328503467,
+      "lon": 127.24222289124316
+    },
+    "city": "Turkey Creek",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -18.378293864994788,
+      "lon": 64.04803501260481
+    },
+    "city": "Vainqueur",
+    "country": "Mauritius",
+    "region": "Rodrigues",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.701728076123246,
+      "lon": 112.59453406282242
+    },
+    "city": "Wentun",
+    "country": "China",
+    "region": "Hainan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.231000062166004,
+      "lon": 97.88255272438273
+    },
+    "city": "Dogyuquka",
+    "country": "China",
+    "region": "Qinghai",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 25.3754860206501,
+      "lon": 104.95880108666759
+    },
+    "city": "Nipu",
+    "country": "China",
+    "region": "Guizhou",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.108410547093463,
+      "lon": 74.89138479397708
+    },
+    "city": "Nohar",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 33.37912371200656,
+      "lon": 72.61449734396273
+    },
+    "city": "Mianwala Choa",
+    "country": "Pakistan",
+    "region": "Punjab",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.348353464588158,
+      "lon": 122.21635811027544
+    },
+    "city": "Manika",
+    "country": "Philippines",
+    "region": "Aklan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -32.7297333560671,
+      "lon": 131.49426984325038
+    },
+    "city": "Coorabie",
+    "country": "Australia",
+    "region": "South Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.282533795126092,
+      "lon": 72.64266885491293
+    },
+    "city": "Sadarwala",
+    "country": "Pakistan",
+    "region": "Punjab",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 8.110439040799193,
+      "lon": 118.58807235730065
+    },
+    "city": "Corum",
+    "country": "Philippines",
+    "region": "Palawan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 33.09456002875999,
+      "lon": 67.66155760790478
+    },
+    "city": "Khana-I-Sayed Muhsen",
+    "country": "Afghanistan",
+    "region": "Ghazni",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.00440816304365,
+      "lon": 56.680962266087775
+    },
+    "city": "Al Ghubar",
+    "country": "Oman",
+    "region": "Al Batinah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -12.156201070660288,
+      "lon": 123.53054140600035
+    },
+    "city": "Namoninilu",
+    "country": "Indonesia",
+    "region": "East Nusa Tenggara",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 55.53967851513557,
+      "lon": 119.65959898136224
+    },
+    "city": "Betekhtina",
+    "country": "Russia",
+    "region": "Chita",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -9.194726375281789,
+      "lon": 120.50663986010143
+    },
+    "city": "Nangarawa",
+    "country": "Indonesia",
+    "region": "East Nusa Tenggara",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 33.653776134287625,
+      "lon": 102.98992339040119
+    },
+    "city": "Tachassu",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 25.81346842764583,
+      "lon": 97.10695949413002
+    },
+    "city": "Lakyang Ga",
+    "country": "Myanmar",
+    "region": "Kachin State",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 3.7684197179816294,
+      "lon": 125.82062568318293
+    },
+    "city": "Bukide",
+    "country": "Indonesia",
+    "region": "North Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.3314183352457,
+      "lon": 123.6505245384304
+    },
+    "city": "Mitasan",
+    "country": "Philippines",
+    "region": "Misamis Occidental",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -15.469885807500177,
+      "lon": 128.85718957530003
+    },
+    "city": "Kununurra",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 13.273649274226017,
+      "lon": 122.7576486820434
+    },
+    "city": "San Andres",
+    "country": "Philippines",
+    "region": "Quezon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.16815793714762,
+      "lon": 72.89110401288337
+    },
+    "city": "Au",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 18.961669295290847,
+      "lon": 108.06820792561224
+    },
+    "city": "Gaopai",
+    "country": "China",
+    "region": "Hainan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -28.87892710324512,
+      "lon": 117.86677016786038
+    },
+    "city": "Paynes Find",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.603348208914724,
+      "lon": 105.7380860611666
+    },
+    "city": "Thai Nguyen",
+    "country": "Vietnam",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -17.178428279798837,
+      "lon": 51.38495362234081
+    },
+    "city": "Ankaboka",
+    "country": "Madagascar",
+    "region": "Toamasina",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -49.10637100942242,
+      "lon": 70.49826262102326
+    },
+    "city": "Port-Aux-Francais",
+    "country": "French Southern and Antarctic Lands",
+    "region": "",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -2.004381909121662,
+      "lon": 115.80894478234057
+    },
+    "city": "Muser",
+    "country": "Indonesia",
+    "region": "East Kalimantan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 22.95318763016016,
+      "lon": 71.8285374144594
+    },
+    "city": "Lakhtar",
+    "country": "India",
+    "region": "Gujarat",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 28.23334742601721,
+      "lon": 63.505470437554955
+    },
+    "city": "Reg-I-Wakab",
+    "country": "Pakistan",
+    "region": "Balochistan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 51.27118132868892,
+      "lon": 52.342367091853006
+    },
+    "city": "Tuksay",
+    "country": "Kazakhstan",
+    "region": "West Kazakhstan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.455806043533485,
+      "lon": 115.03485421582104
+    },
+    "city": "Futianhe",
+    "country": "China",
+    "region": "Hubei",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -17.109238056870296,
+      "lon": 129.9480800587395
+    },
+    "city": "Turkey Creek",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.180191906268256,
+      "lon": 63.06878766250862
+    },
+    "city": "Khvajeh `Ali-E Pa'in",
+    "country": "Afghanistan",
+    "region": "Helmand",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 25.672132292122768,
+      "lon": 109.74444898864219
+    },
+    "city": "Tongye",
+    "country": "China",
+    "region": "Guangxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -5.365459736954875,
+      "lon": 118.48390582287973
+    },
+    "city": "Rewataya",
+    "country": "Indonesia",
+    "region": "South Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 31.072681248889047,
+      "lon": 84.05064053884487
+    },
+    "city": "Lunggar",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -4.123602653335439,
+      "lon": 119.9636149254782
+    },
+    "city": "Sengkang",
+    "country": "Indonesia",
+    "region": "South Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 33.89636550318911,
+      "lon": 82.58162313047836
+    },
+    "city": "Duomula",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 44.690976512127165,
+      "lon": 116.59341232509287
+    },
+    "city": "Chaokowula",
+    "country": "China",
+    "region": "Nei Mongol",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.848070877898536,
+      "lon": 127.258330217916
+    },
+    "city": "Loji",
+    "country": "Indonesia",
+    "region": "Maluku Utara",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 1.2557054795639147,
+      "lon": 121.88566067594375
+    },
+    "city": "Timbulan",
+    "country": "Indonesia",
+    "region": "Central Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.58101181086076,
+      "lon": 119.36656908135271
+    },
+    "city": "Bobon",
+    "country": "Philippines",
+    "region": "Ilocos Norte",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.0863222025244994,
+      "lon": 119.8565063021416
+    },
+    "city": "Simatang Utara",
+    "country": "Indonesia",
+    "region": "Central Sulawesi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.826614121065056,
+      "lon": 91.63951492047615
+    },
+    "city": "Liangdaohe",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -4.694845262339868,
+      "lon": 38.91802005793773
+    },
+    "city": "Mwakoni",
+    "country": "Tanzania",
+    "region": "Tanga",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.96645028741139,
+      "lon": 104.29247508371175
+    },
+    "city": "Peichuanhsien",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -14.216676094504862,
+      "lon": 30.287957948126863
+    },
+    "city": "Chilembe",
+    "country": "Zambia",
+    "region": "North-Western",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 11.887759263890686,
+      "lon": 117.86388171485004
+    },
+    "city": "Culasa",
+    "country": "Philippines",
+    "region": "Palawan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 52.23075905957425,
+      "lon": 87.97425851202617
+    },
+    "city": "Sadra",
+    "country": "Russia",
+    "region": "Gorno-Altay",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.755531447072201,
+      "lon": 121.34092427143574
+    },
+    "city": "Larona",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -32.74269517418806,
+      "lon": 118.59693806223595
+    },
+    "city": "Pingaring",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.433725178424581,
+      "lon": 111.26063126851376
+    },
+    "city": "Kampong Paloh",
+    "country": "Malaysia",
+    "region": "Sarawak",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 0.3154466764974586,
+      "lon": 123.78680128267328
+    },
+    "city": "Bakida Dusun Satu",
+    "country": "Indonesia",
+    "region": "North Sulawesi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 31.09537417387555,
+      "lon": 88.73473796598824
+    },
+    "city": "Tanglhai",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -30.811013600038137,
+      "lon": 118.28705999984855
+    },
+    "city": "Mukinbudin",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.209931877260765,
+      "lon": 70.68884863138287
+    },
+    "city": "Sanu",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 19.242790339021184,
+      "lon": 57.68439022988993
+    },
+    "city": "Duqm",
+    "country": "Oman",
+    "region": "Ash Sharqiyah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 6.423828249775596,
+      "lon": 124.80945541803473
+    },
+    "city": "San Vicente",
+    "country": "Philippines",
+    "region": "South Cotabato",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 46.206153994718115,
+      "lon": 111.8163004947213
+    },
+    "city": "Tubshin Shiree Sumu",
+    "country": "Mongolia",
+    "region": "Suhbaatar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.72792322687547,
+      "lon": 65.41883494208896
+    },
+    "city": "Walham",
+    "country": "Afghanistan",
+    "region": "Kandahar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.09684702186947,
+      "lon": 103.85528388633394
+    },
+    "city": "Sosomentzu",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 25.1034252667624,
+      "lon": 71.17409589756183
+    },
+    "city": "Sirwa",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.499264510933045,
+      "lon": 58.02403903697523
+    },
+    "city": "Mohammadi",
+    "country": "Iran",
+    "region": "Kerman",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 23.627713035950492,
+      "lon": 119.28246438614828
+    },
+    "city": "Waianshe",
+    "country": "Taiwan",
+    "region": "T'ai-wan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 38.803826159720046,
+      "lon": 79.20288727070437
+    },
+    "city": "Bachu Sanchang",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.698071116831827,
+      "lon": 107.5780714645673
+    },
+    "city": "Changlao",
+    "country": "China",
+    "region": "Guangxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 29.29417684646438,
+      "lon": 97.57906405726865
+    },
+    "city": "Xia Lingka",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 52.444672315577115,
+      "lon": 56.16492390493961
+    },
+    "city": "Tyulgan",
+    "country": "Russia",
+    "region": "Orenburg",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 20.543736890189464,
+      "lon": 31.703303656882287
+    },
+    "city": "Fidimin Al Qibliyah",
+    "country": "Egypt",
+    "region": "Al Fayyum",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.317665438400795,
+      "lon": 73.18919226002971
+    },
+    "city": "Khaneh-Ye Garmatek",
+    "country": "Afghanistan",
+    "region": "Badakhshan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 55.26873098106404,
+      "lon": 61.25085983850241
+    },
+    "city": "Roshchino",
+    "country": "Russia",
+    "region": "Chelyabinsk",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 25.734054821226465,
+      "lon": 46.93313708948234
+    },
+    "city": "Ar Rumhiyah",
+    "country": "Saudi Arabia",
+    "region": "Ar Riyad",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.7769571176671946,
+      "lon": 49.8356414759381
+    },
+    "city": "Daris",
+    "country": "Somalia",
+    "region": "Bari",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -26.20442277475098,
+      "lon": 119.50055349595594
+    },
+    "city": "Paroo",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 25.069781669804,
+      "lon": 114.5816312134756
+    },
+    "city": "Pailouxia",
+    "country": "China",
+    "region": "Jiangxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 10.824578547852425,
+      "lon": 53.49473821773362
+    },
+    "city": "Ishwaq",
+    "country": "Yemen",
+    "region": "Sa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.7650483062062108,
+      "lon": 117.27975590545853
+    },
+    "city": "Muarakembang",
+    "country": "Indonesia",
+    "region": "East Kalimantan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -1.1080574743161407,
+      "lon": 113.41197473778418
+    },
+    "city": "Jangkit",
+    "country": "Indonesia",
+    "region": "Indonesia (general) ",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.600849275296525,
+      "lon": 116.64146429798735
+    },
+    "city": "Searborough Shoal",
+    "country": "Philippines",
+    "region": "La Union",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -6.468798010080619,
+      "lon": 116.90251989347864
+    },
+    "city": "Torohhiga",
+    "country": "Indonesia",
+    "region": "East Java",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 32.178218847329305,
+      "lon": 86.82930033668679
+    },
+    "city": "Ngoqudoima",
+    "country": "China",
+    "region": "Xizang",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -7.799219532622303,
+      "lon": 118.78806204277527
+    },
+    "city": "Gunungapi",
+    "country": "Indonesia",
+    "region": "West Nusa Tenggara",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 5.895923428282217,
+      "lon": 49.51033226268252
+    },
+    "city": "Gulle",
+    "country": "Somalia",
+    "region": "Mudug",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.250792753550627,
+      "lon": 123.17792867727873
+    },
+    "city": "Mankawayan",
+    "country": "Philippines",
+    "region": "Camarines Norte",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -0.722478844678605,
+      "lon": 125.574017091389
+    },
+    "city": "Golofuno",
+    "country": "Indonesia",
+    "region": "Maluku Utara",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -24.887426825175865,
+      "lon": 146.57435712433292
+    },
+    "city": "Tombo",
+    "country": "Australia",
+    "region": "Queensland",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 53.44513752517649,
+      "lon": 122.43143258671802
+    },
+    "city": "Ignashino",
+    "country": "Russia",
+    "region": "Amur",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.1673728721734875,
+      "lon": 150.3960023654368
+    },
+    "city": "Elena",
+    "country": "Papua New Guinea",
+    "region": "New Ireland",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 26.922015144873406,
+      "lon": 33.822713958409814
+    },
+    "city": "Qadd El-Barud",
+    "country": "Egypt",
+    "region": "Al Bahr al Ahmar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 59.762399255313966,
+      "lon": 101.02067910356575
+    },
+    "city": "Zimovye Kezhemskoye",
+    "country": "Russia",
+    "region": "Krasnoyarsk",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 15.49387892503384,
+      "lon": 49.805627158899206
+    },
+    "city": "Al Hawatiyiah",
+    "country": "Yemen",
+    "region": "Hadramawt",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 5.964025444814382,
+      "lon": 119.86583556850259
+    },
+    "city": "Laparan",
+    "country": "Philippines",
+    "region": "Sulu",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 27.566055083359174,
+      "lon": 101.49403270490609
+    },
+    "city": "Yenchinghsiang",
+    "country": "China",
+    "region": "Sichuan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 57.2524223672997,
+      "lon": 112.84687163333446
+    },
+    "city": "Kunkuderi",
+    "country": "Russia",
+    "region": "Irkutsk",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.554594294836804,
+      "lon": 116.99775280295043
+    },
+    "city": "Point Samson",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.580669603084075,
+      "lon": 121.5672260185909
+    },
+    "city": "Fuhsingnungchuang",
+    "country": "Taiwan",
+    "region": "T'ai-wan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 20.13599754450675,
+      "lon": 103.56178376119618
+    },
+    "city": "Ban Muanglap",
+    "country": "Lao People's Democratic Republic",
+    "region": "Houaphan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.329672846276466,
+      "lon": 118.8364581487606
+    },
+    "city": "Pantau Pantau",
+    "country": "Malaysia",
+    "region": "Sabah",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -2.3587590911358802,
+      "lon": 124.41160894016059
+    },
+    "city": "Talo",
+    "country": "Indonesia",
+    "region": "Maluku Utara",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 10.09573290072602,
+      "lon": 117.14199545103025
+    },
+    "city": "Tagusao",
+    "country": "Philippines",
+    "region": "Palawan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 39.22920169733791,
+      "lon": 73.70354531158999
+    },
+    "city": "Karaart",
+    "country": "Tajikistan",
+    "region": "Kuhistoni Badakhshon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 21.676413150582775,
+      "lon": 86.25468260850971
+    },
+    "city": "Burigaon",
+    "country": "India",
+    "region": "Orissa",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 2.7925559173092154,
+      "lon": 117.68052027024781
+    },
+    "city": "Sajau",
+    "country": "Indonesia",
+    "region": "North Kalimantan",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 26.634924314762785,
+      "lon": 83.14976239373881
+    },
+    "city": "Maghar",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 12.24884624303931,
+      "lon": 126.76112771522587
+    },
+    "city": "Paet",
+    "country": "Philippines",
+    "region": "Eastern Samar",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 26.94532558777624,
+      "lon": 75.05864927672762
+    },
+    "city": "Nawa",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 4.067889942286413,
+      "lon": 48.36418104841381
+    },
+    "city": "Ceel Cabdi",
+    "country": "Somalia",
+    "region": "Galguduud",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 1.2713333838180318,
+      "lon": 39.08371404867914
+    },
+    "city": "Saricho",
+    "country": "Kenya",
+    "region": "Eastern",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -12.22105053386096,
+      "lon": 50.18417436058795
+    },
+    "city": "Ankirikiriky",
+    "country": "Madagascar",
+    "region": "Antsiranana",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 45.069907636251294,
+      "lon": 87.0380347780969
+    },
+    "city": "Mosouwan",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -3.530098277707367,
+      "lon": 126.09579053787982
+    },
+    "city": "Wamasi",
+    "country": "Indonesia",
+    "region": "Maluku",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 27.040841478990636,
+      "lon": 114.15438712851545
+    },
+    "city": "Litien",
+    "country": "China",
+    "region": "Jiangxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 23.505306719909427,
+      "lon": 105.44646851626928
+    },
+    "city": "Zhongzhai",
+    "country": "China",
+    "region": "Yunnan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -29.817798406128944,
+      "lon": 125.59491620963992
+    },
+    "city": "Rawlinna",
+    "country": "Australia",
+    "region": "Western Australia",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": -1.2724310124153533,
+      "lon": 122.61538413654951
+    },
+    "city": "Kompanga",
+    "country": "Indonesia",
+    "region": "Central Sulawesi",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 26.57341720364672,
+      "lon": 107.03994772218687
+    },
+    "city": "Gubing",
+    "country": "China",
+    "region": "Guizhou",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -4.138062066300577,
+      "lon": 57.511465214416596
+    },
+    "city": "La Reunion",
+    "country": "Seychelles Islands",
+    "region": "Beau Vallon",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.242289458272886,
+      "lon": 111.65461352563072
+    },
+    "city": "Pinglu",
+    "country": "China",
+    "region": "Shanxi",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 21.133219053449395,
+      "lon": 114.94962506226439
+    },
+    "city": "Shichong",
+    "country": "China",
+    "region": "Guangdong",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 37.65424087402839,
+      "lon": 90.31116040525876
+    },
+    "city": "Qongkumkol",
+    "country": "China",
+    "region": "Xinjiang",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 40.882547692435494,
+      "lon": 97.66354070750236
+    },
+    "city": "Luotuojing",
+    "country": "China",
+    "region": "Gansu",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 29.10153267572757,
+      "lon": 68.06390430794568
+    },
+    "city": "Goth Qaim Khan Dinari",
+    "country": "Pakistan",
+    "region": "Balochistan",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 24.509886548974876,
+      "lon": 112.35615511032405
+    },
+    "city": "Chaikanghsu",
+    "country": "China",
+    "region": "Guangdong",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": -20.329704844357124,
+      "lon": 63.929391848064576
+    },
+    "city": "Petit Gravier",
+    "country": "Northern Mariana Islands",
+    "region": "",
+    "is_raining": false
+  },
+  {
+    "coord": {
+      "lat": 30.94565499858986,
+      "lon": 112.78981561569104
+    },
+    "city": "Shilong",
+    "country": "China",
+    "region": "Hubei",
+    "is_raining": true
+  },
+  {
+    "coord": {
+      "lat": 25.001875542854563,
+      "lon": 73.30687983596475
+    },
+    "city": "Bijapur",
+    "country": "India",
+    "region": "Rajasthan",
+    "is_raining": false
+  }
+]
